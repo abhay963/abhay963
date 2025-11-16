@@ -82,7 +82,11 @@
 
 ## 🧭 **Nagar Sahayata Portal – Civic Issue Platform**
 
-<div style="border:2px solid #c17fff;border-radius:15px;padding:15px;box-shadow:0 0 20px #c17fff;">
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=800&color=C17FFF&width=450&lines=Smart+Civic+Management;Track+and+Resolve+Local+Issues" />
+</div>
+
+<div style="border:2px solid #c17fff;border-radius:15px;padding:15px;box-shadow:0 0 15px #c17fff60;transition:0.3s;">
 • Raise & track civic complaints<br>
 • Water, electricity, road issues<br>
 • Real-time status dashboard
@@ -92,7 +96,11 @@
 
 ## 🧊 **3D Portfolio – WebGL / Three.js**
 
-<div style="border:2px solid #00ff9d;border-radius:15px;padding:15px;box-shadow:0 0 20px #00ff9d;">
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=800&color=00FFBF&width=450&lines=Immersive+3D+Experience;Smooth+Interactive+Design" />
+</div>
+
+<div style="border:2px solid #00ff9d;border-radius:15px;padding:15px;box-shadow:0 0 15px #00ff9d60;transition:0.3s;">
 • Floating 3D elements<br>
 • Smooth camera transitions<br>
 • Parallax interactions
