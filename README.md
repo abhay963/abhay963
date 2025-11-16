@@ -83,12 +83,6 @@
 
 ---
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/anime-dev.gif" width="350px" style="border-radius:20px;box-shadow:0px 0px 20px #00eaff;"/>
-</div>
-
----
-
 ## 🤝 **Let's Collaborate!**
 
 If you're building in:
