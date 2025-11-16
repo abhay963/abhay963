@@ -47,21 +47,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 
 </div>
-
----
-
-<div align="center"><img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/wave.svg" width="100%"/></div>
-
-# 🐍 **Contribution Snake**
-
-<div align="center">
-
-<!-- Fixed working snake animation -->
-
-<img src="https://raw.githubusercontent.com/abhay963/output/github-contribution-grid-snake.svg" />
-
-</div>
-
 ---
 
 # 📊 **GitHub Stats**
@@ -80,24 +65,12 @@
 
 # 🚀 **Featured Projects**
 
-## 🧭 **Nagar Sahayata Portal – Civic Issue Platform**
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1800&pause=700&color=C17FFF&width=500&lines=Smart+Civic+Issue+Portal;Raise+Complaints+Effortlessly;Track+Live+Status;Modern+User+Experience" />
-<br>
-<img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/glow-line.gif" width="350" />
-</div>
-
----
-
-## 🧊 **3D Portfolio – WebGL / Three.js**
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1800&pause=700&color=00FFBF&width=500&lines=Immersive+3D+Portfolio;Smooth+Camera+Movements;Interactive+WebGL+Design;Modern+Frontend+Experience" />
-<br>
-<img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/glow-green.gif" width="350" />
-</div>
-
+🧭 Nagar Sahayata Portal – Civic Issue Platform
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1800&pause=700&color=C17FFF&width=500&lines=Smart+Civic+Issue+Portal;Raise+Complaints+Effortlessly;Track+Live+Status;Modern+User+Experience" /> <br> <img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/glow-line.gif" width="350" /> </div>
+🧊 3D Portfolio – WebGL / Three.js
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1800&pause=700&color=00FFBF&width=500&lines=Immersive+3D+Portfolio;Smooth+Camera+Movements;Interactive+WebGL+Design;Modern+Frontend+Experience" /> <br> <img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/glow-green.gif" width="350" /> </div>
+🎬 Netflix Clone – MERN / Full-Stack Streaming UI
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1800&pause=700&color=FF4747&width=500&lines=Modern+Netflix+Clone;Dynamic+Movie+Categories;Sleek+Responsive+UI;Authentication+%26+User+Profiles;Smooth+Frontend+Animations" /> <br> <img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/glow-red.gif" width="350" /> </div>
 ---
 
 # 🌐 **Auto-Updating Quote**
@@ -126,6 +99,6 @@ I'm open to collaborations! 🚀
 ---
 
 <div align="center">
-### 🌈 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00EFFF&width=500&lines=Thanks+for+visiting!+⭐;Have+a+great+day+coding!" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00EFFF&width=500&lines=Thanks+for+visiting!+⭐;Have+a+great+day+coding!" />
 <img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/coding.gif" width="350px" />
 </div>
