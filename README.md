@@ -32,7 +32,7 @@
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,reactnative,tailwind,html,css" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
 
 ### 🛠️ Backend
 
@@ -58,7 +58,7 @@
 
 <!-- Fixed working snake animation -->
 
-<img src="https://raw.githubusercontent.com/abhay963/abhay963/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/abhay963/output/github-contribution-grid-snake.svg" />
 
 </div>
 
