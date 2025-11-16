@@ -2,19 +2,34 @@
 
 <div align="center">
 
-<!-- Animated Floating Tech Stack GIF -->
-<img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/tech-stack-float.gif" width="80%" style="border-radius:12px;"/>
+<!-- Optional minimal animation: subtle GIF background -->
+<img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/tech-stack-background.gif" width="100%" style="border-radius:12px;opacity:0.15;position:absolute;z-index:-1;"/>
 
-</div>
+<!-- Tech stack icons displayed normally -->
+<div style="position:relative; z-index:1;">
 
-<div align="center">
-
-<!-- Optional: Keep static categories below for clarity -->
 ### 🧠 Languages
 <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
 
 ### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=react,reactnative,tailwind,html,css,threejs" />
+
+### 🛠️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
+
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+
+</div>
+</div>
+
+> ⚡ These icons are **static and professional**, always visible on GitHub, and represent your tech stack clearly.
 
 ### 🛠️ Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
