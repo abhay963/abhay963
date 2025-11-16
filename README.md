@@ -39,31 +39,26 @@
 
 <div align="center">
 
-<!-- Languages -->
 ### 🧠 Languages
 <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
 
-<!-- Frontend -->
 ### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=react,reactnative,tailwind,html,css,threejs" />
 
-<!-- Backend -->
 ### 🛠️ Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-<!-- Databases -->
 ### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
 
-<!-- Cloud & DevOps -->
 ### ☁️ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
 
-<!-- Tools -->
 ### 🧰 Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 
 </div>
+
 
 > ⚡ These icons are **fully static but professional**, always work on GitHub, and represent your tech stack clearly.
 
