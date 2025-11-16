@@ -29,31 +29,27 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhay96portfolio.netlify.app/)
 
 ---
-
 ## 🛠️ **Tech Stack**
-
 <div align="center">
+  <!-- Background GIF -->
+  <img src="/mnt/data/e2019526-6227-4d19-89c7-e82da424967c.gif" width="100%" style="border-radius:12px;opacity:0.15;position:absolute;z-index:-1;"/>
 
-<img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/tech-stack-background.gif" width="100%" style="border-radius:12px;opacity:0.15;position:absolute;z-index:-1;"/>
-
-<div style="position:relative; z-index:1;">
-
-
-
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,reactnative,tailwind,html,css" />
-
-### 🛠️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-
+  <!-- Tech stack content -->
+  <div style="position:relative; z-index:1;">
+    ### 🎨 Frontend
+    <img src="https://skillicons.dev/icons?i=react,reactnative,tailwind,html,css" />
+    
+    ### 🛠️ Backend
+    <img src="https://skillicons.dev/icons?i=nodejs,express" />
+    
+    ### 🗄️ Databases
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+    
+    ### 🧰 Tools
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+  </div>
 </div>
-</div>
+
 
 
 ---
