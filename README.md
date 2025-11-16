@@ -83,13 +83,9 @@
 ## 🧭 **Nagar Sahayata Portal – Civic Issue Platform**
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=800&color=C17FFF&width=450&lines=Smart+Civic+Management;Track+and+Resolve+Local+Issues" />
-</div>
-
-<div style="border:2px solid #c17fff;border-radius:15px;padding:15px;box-shadow:0 0 15px #c17fff60;transition:0.3s;">
-• Raise & track civic complaints<br>
-• Water, electricity, road issues<br>
-• Real-time status dashboard
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1800&pause=700&color=C17FFF&width=500&lines=Smart+Civic+Issue+Portal;Raise+Complaints+Effortlessly;Track+Live+Status;Modern+User+Experience" />
+<br>
+<img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/glow-line.gif" width="350" />
 </div>
 
 ---
@@ -97,13 +93,9 @@
 ## 🧊 **3D Portfolio – WebGL / Three.js**
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=800&color=00FFBF&width=450&lines=Immersive+3D+Experience;Smooth+Interactive+Design" />
-</div>
-
-<div style="border:2px solid #00ff9d;border-radius:15px;padding:15px;box-shadow:0 0 15px #00ff9d60;transition:0.3s;">
-• Floating 3D elements<br>
-• Smooth camera transitions<br>
-• Parallax interactions
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1800&pause=700&color=00FFBF&width=500&lines=Immersive+3D+Portfolio;Smooth+Camera+Movements;Interactive+WebGL+Design;Modern+Frontend+Experience" />
+<br>
+<img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/glow-green.gif" width="350" />
 </div>
 
 ---
