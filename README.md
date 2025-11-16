@@ -38,7 +38,16 @@
 
 ### 🎡 **Rotating Tech Stack Wheel**
 
-<img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/tech-wheel.gif" width="350px" />
+<img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/tech-wheel.gif?raw=true" width="380px" />
+
+> ⚠️ **If this still doesn’t rotate**, GitHub is blocking GIF animation.
+> Use this reliable link instead:
+>
+> ```html
+> <img src="https://raw.githubusercontent.com/abhay963/abhay963/output/tech-wheel.gif" width="380px" />
+> ```
+>
+> Or replace with a **CSS-based rotating wheel** (always works on GitHub).
 
 </div>
 
