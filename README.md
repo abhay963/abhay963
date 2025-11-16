@@ -75,7 +75,7 @@
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1800&pause=700&color=FF4747&width=500&lines=Modern+Netflix+Clone;Dynamic+Movie+Categories;Sleek+Responsive+UI;Authentication+%26+User+Profiles;Smooth+Frontend+Animations" /> <br> <img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/glow-red.gif" width="350" /> </div>
 ---
 
-# 🌐 **Auto-Updating Quote**
+# 🌐 **Quote of the Day**
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
