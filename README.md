@@ -82,31 +82,21 @@
 
 ## 🧭 **Nagar Sahayata Portal – Civic Issue Platform**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=C17FFF&width=500&lines=Interactive+Project+Showcase;Click+to+Explore+Details" />
-
-<details>
-<summary><b>✨ <img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/blink.gif" width="20"/> Click to Expand</b></summary>
-<br>
 <div style="border:2px solid #c17fff;border-radius:15px;padding:15px;box-shadow:0 0 20px #c17fff;">
 • Raise & track civic complaints<br>
 • Water, electricity, road issues<br>
 • Real-time status dashboard
 </div>
-</details>
 
 ---
 
 ## 🧊 **3D Portfolio – WebGL / Three.js**
 
-<details>
-<summary><b>✨ <img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/blink.gif" width="20"/> Click to Expand</b></summary>
-<br>
 <div style="border:2px solid #00ff9d;border-radius:15px;padding:15px;box-shadow:0 0 20px #00ff9d;">
 • Floating 3D elements<br>
 • Smooth camera transitions<br>
 • Parallax interactions
 </div>
-</details>
 
 ---
 
