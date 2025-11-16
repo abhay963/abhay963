@@ -3,54 +3,50 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/lofi-bg.gif" width="100%" style="border-radius:12px;opacity:0.85;">
-
 <br>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Abhay+is+Coding...;Full-Stack+Developer;React+%7C+Node+%7C+Express.js;Always+Learning+New+Things!" />
 
 </div>
 
-
-
 ---
 
-## 🌟 **About Me**
+## ✨ **About Me**
 
 * 🎓 IT Student @ CEC Landran (3rd Year)
 * 💻 MERN Stack Developer + DSA (C++)
 * 💼 Ex-SDE Intern @ Bluestock Fintech
-* 📧 **abhayyadav96312@gmail.com**
+* 📧 **[abhayyadav96312@gmail.com](mailto:abhayyadav96312@gmail.com)**
 
 ---
 
 ## 🌐 **Connect With Me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay9631)
-[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhay96portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/abhay9631)
+[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://abhay96portfolio.netlify.app/)
 
 ---
+
 ## 🛠️ **Tech Stack**
+
 <div align="center">
-  <!-- Background GIF -->
-  <img src="/mnt/data/e2019526-6227-4d19-89c7-e82da424967c.gif" width="100%" style="border-radius:12px;opacity:0.15;position:absolute;z-index:-1;"/>
 
-  <!-- Tech stack content -->
-  <div style="position:relative; z-index:1;">
-    ### 🎨 Frontend
-    <img src="https://skillicons.dev/icons?i=react,reactnative,tailwind,html,css" />
-    
-    ### 🛠️ Backend
-    <img src="https://skillicons.dev/icons?i=nodejs,express" />
-    
-    ### 🗄️ Databases
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-    
-    ### 🧰 Tools
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-  </div>
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,reactnative,tailwind,html,css" />
+
+### 🛠️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+### 🧰 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+
 </div>
-
-
 
 ---
 
@@ -59,7 +55,11 @@
 # 🐍 **Contribution Snake**
 
 <div align="center">
-<img src="https://github.com/abhay963/abhay963/blob/output/github-contribution-grid-snake.svg" />
+
+<!-- Fixed working snake animation -->
+
+<img src="https://raw.githubusercontent.com/abhay963/abhay963/output/github-contribution-grid-snake.svg" />
+
 </div>
 
 ---
@@ -82,21 +82,29 @@
 
 ## 🧭 **Nagar Sahayata Portal – Civic Issue Platform**
 
+<details>
+<summary><b>✨ Click to Expand</b></summary>
+<br>
 <div style="border:2px solid #c17fff;border-radius:15px;padding:15px;box-shadow:0 0 20px #c17fff;">
-* Raise & track civic complaints
-* Water, electricity, road issues
-* Real-time status dashboard
+• Raise & track civic complaints<br>
+• Water, electricity, road issues<br>
+• Real-time status dashboard
 </div>
+</details>
 
 ---
 
 ## 🧊 **3D Portfolio – WebGL / Three.js**
 
+<details>
+<summary><b>✨ Click to Expand</b></summary>
+<br>
 <div style="border:2px solid #00ff9d;border-radius:15px;padding:15px;box-shadow:0 0 20px #00ff9d;">
-* Floating 3D elements
-* Smooth camera transitions
-* Parallax interactions
+• Floating 3D elements<br>
+• Smooth camera transitions<br>
+• Parallax interactions
 </div>
+</details>
 
 ---
 
@@ -105,8 +113,6 @@
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
-
----
 
 ---
 
@@ -128,6 +134,6 @@ I'm open to collaborations! 🚀
 ---
 
 <div align="center">
-### 🌈 *Thanks for visiting!* ⭐
+### 🌈 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00EFFF&width=500&lines=Thanks+for+visiting!+⭐;Have+a+great+day+coding!" />
 <img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/coding.gif" width="350px" />
 </div>
