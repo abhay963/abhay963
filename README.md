@@ -2,6 +2,7 @@
 
 <div align="center" style="position:relative;">
 
+<!-- 🎧 Lo-fi Coding Background -->
 <img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/lofi-bg.gif" width="100%" style="border-radius:12px;opacity:0.85;">
 
 <br>
@@ -34,48 +35,38 @@
 
 ---
 
-# 🛠️ **Tech Stack**
+## 🛠️ **Tech Stack (Animated)**
 
 <div align="center">
 
-## 🚀 Professional Animated Tech Stack
-
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,reactnative,redux,threejs,tailwind,html,css,nodejs,express,mongodb,mysql,sqlite,aws,docker,git,github,postman,figma,vscode&perline=8" />
+### 🚀 **Floating Animated Tech Icons**
+<img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/tech-float.gif" width="90%" />
 
 </div>
 
 ---
 
-## 🧠 **Languages**
+### 🧠 **Languages**
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python&theme=light" />
 
-C++, JavaScript, TypeScript, Python
+### 🎨 **Frontend**
+<img src="https://skillicons.dev/icons?i=react,reactnative,html,css,tailwind,threejs&theme=light" />
 
-## 🎨 **Frontend**
+### 🛠️ **Backend**
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=light" />
 
-React • React Native • TailwindCSS  
-Three.js • WebGL • HTML • CSS
+### 🗄️ **Databases**
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=light" />
 
-## 🛠️ **Backend**
+### ☁️ **Cloud & DevOps**
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions&theme=light" />
 
-Node.js • Express • REST APIs
-
-## 🗄️ **Databases**
-
-MongoDB • MySQL • SQLite
-
-## ☁️ **Cloud & DevOps**
-
-AWS • Docker • GitHub Actions
-
-## 🧰 **Tools**
-
-Git • GitHub • Postman • VS Code • Figma
+### 🧰 **Tools**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=light" />
 
 ---
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/wave.svg" width="100%"/>
-</div>
+<div align="center"><img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/wave.svg" width="100%"/></div>
 
 # 🐍 **Contribution Snake**
 
@@ -137,9 +128,7 @@ Smart portal for:
 # 🌐 **Auto-Updating Quote**
 
 <div align="center">
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
 </div>
 
 ---
