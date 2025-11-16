@@ -10,9 +10,7 @@
 
 </div>
 
-<div>
-<img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/wave.svg" width="100%"/>
-</div>
+
 
 ---
 
