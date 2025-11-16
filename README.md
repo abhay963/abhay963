@@ -1,59 +1,12 @@
-## 🛠️ **Tech Stack**
-
-<div align="center">
-
-<!-- Optional minimal animation: subtle GIF background -->
-<img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/tech-stack-background.gif" width="100%" style="border-radius:12px;opacity:0.15;position:absolute;z-index:-1;"/>
-
-<!-- Tech stack icons displayed normally -->
-<div style="position:relative; z-index:1;">
-
-### 🧠 Languages
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
-
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,reactnative,tailwind,html,css,threejs" />
-
-### 🛠️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
-
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
-
-### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-
-</div>
-</div>
-
-> ⚡ These icons are **static and professional**, always visible on GitHub, and represent your tech stack clearly.
-
-### 🛠️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
-
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
-
-### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-
-</div>
 # 👋 Hey, I'm **Abhay Kumar Yadav**
 
 <div align="center">
 
-<!-- 🎧 Lo-fi Coding Background -->
 <img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/lofi-bg.gif" width="100%" style="border-radius:12px;opacity:0.85;">
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Abhay+is+Coding...;Full-Stack+Developer;React+%7C+Node+%7C+Three.js;DSA+in+C%2B%2B;Always+Learning+New+Things!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Abhay+is+Coding...;Full-Stack+Developer;React+%7C+Node+%7C+Three.js;Always+Learning+New+Things!" />
 
 </div>
 
@@ -65,12 +18,10 @@
 
 ## 🌟 **About Me**
 
-- 🎓 IT Student @ CEC Landran (3rd Year)
-- 💻 MERN Stack Developer + DSA (C++)
-- 🚀 Building **PashuSaathi** – AI rural animal healthcare
-- ✨ Passionate about **3D Web (Three.js / WebGL)**
-- 💼 Ex-SDE Intern @ Bluestock Fintech
-- 📧 **abhayyadav96312@gmail.com**
+* 🎓 IT Student @ CEC Landran (3rd Year)
+* 💻 MERN Stack Developer + DSA (C++)
+* 💼 Ex-SDE Intern @ Bluestock Fintech
+* 📧 **abhayyadav96312@gmail.com**
 
 ---
 
@@ -85,28 +36,27 @@
 
 <div align="center">
 
-### 🧠 Languages
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
+<img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/tech-stack-background.gif" width="100%" style="border-radius:12px;opacity:0.15;position:absolute;z-index:-1;"/>
+
+<div style="position:relative; z-index:1;">
+
+
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,reactnative,tailwind,html,css,threejs" />
+<img src="https://skillicons.dev/icons?i=react,reactnative,tailwind,html,css" />
 
 ### 🛠️ Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
-
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
 ### 🧰 Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 
 </div>
+</div>
 
-
-> ⚡ These icons are **fully static but professional**, always work on GitHub, and represent your tech stack clearly.
 
 ---
 
@@ -136,22 +86,12 @@
 
 # 🚀 **Featured Projects**
 
-## 🩺 **PashuSaathi – AI Animal Healthcare**
-
-<div style="border:2px solid #00eaff;border-radius:15px;padding:15px;box-shadow:0 0 20px #00eaff;">
-- Image-based disease detection (AI)  
-- Ayurvedic remedies & food suggestions  
-- Nearby vet search + booking + payments  
-</div>
-
----
-
 ## 🧭 **Nagar Sahayata Portal – Civic Issue Platform**
 
 <div style="border:2px solid #c17fff;border-radius:15px;padding:15px;box-shadow:0 0 20px #c17fff;">
-- Raise & track civic complaints  
-- Water, electricity, road issues  
-- Real-time status dashboard  
+* Raise & track civic complaints
+* Water, electricity, road issues
+* Real-time status dashboard
 </div>
 
 ---
@@ -159,9 +99,9 @@
 ## 🧊 **3D Portfolio – WebGL / Three.js**
 
 <div style="border:2px solid #00ff9d;border-radius:15px;padding:15px;box-shadow:0 0 20px #00ff9d;">
-- Floating 3D elements  
-- Smooth camera transitions  
-- Parallax interactions  
+* Floating 3D elements
+* Smooth camera transitions
+* Parallax interactions
 </div>
 
 ---
@@ -173,13 +113,6 @@
 </div>
 
 ---
-
-# 🎯 **Goals for 2025**
-
-- Crack **Microsoft / Atlassian / Intuit**  
-- Build 2 major full-stack + AI products  
-- Master System Design  
-- Reach **300+ GitHub contributions**
 
 ---
 
@@ -193,16 +126,14 @@
 
 If you're building in:
 
-- AI + Healthcare  
-- MERN Stack  
-- 3D Web / Three.js  
-- Open Source  
+* MERN Stack
+* Open Source
 
 I'm open to collaborations! 🚀
 
 ---
 
 <div align="center">
-### 🌈 *Thanks for visiting!* ⭐  
+### 🌈 *Thanks for visiting!* ⭐
 <img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/coding.gif" width="350px" />
 </div>
