@@ -36,9 +36,12 @@
 
 <div align="center">
 
-### 🎡 **Rotating Tech Stack Wheel**
+### 🚀 Tech Stack (Animated Icons)
 
-<img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/tech-wheel.gif?raw=true" width="380px" />
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,reactnative,redux,tailwind,html,css,nodejs,express,mongodb,mysql,sqlite,aws,docker,git,github,vscode,postman,figma&perline=8" />
+
+
+
 
 > ⚠️ **If this still doesn’t rotate**, GitHub is blocking GIF animation.
 > Use this reliable link instead:
