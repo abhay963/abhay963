@@ -1,3 +1,34 @@
+## 🛠️ **Tech Stack**
+
+<div align="center">
+
+<!-- Animated Floating Tech Stack GIF -->
+<img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/tech-stack-float.gif" width="80%" style="border-radius:12px;"/>
+
+</div>
+
+<div align="center">
+
+<!-- Optional: Keep static categories below for clarity -->
+### 🧠 Languages
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,reactnative,tailwind,html,css,threejs" />
+
+### 🛠️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
+
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+
+</div>
 # 👋 Hey, I'm **Abhay Kumar Yadav**
 
 <div align="center">
