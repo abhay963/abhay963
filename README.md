@@ -128,24 +128,18 @@
 
 <div align="center">
 
-<!-- Unique collaboration / building animation -->
+<!-- Main collaboration / building together animation -->
 <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="360"/>
 
 <br><br>
 
-<!-- Clean typing animation (different tone & content) -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Have+an+Idea%3F;Building+Something+Meaningful%3F;Let’s+Collaborate+and+Create;Code.+Learn.+Grow.+Together." />
+<!-- Secondary teamwork animation -->
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="340"/>
 
-</div>
-
----
-
-<div align="center">
-
-✨ **I enjoy collaborating on**
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=700&color=00EFFF&center=true&width=700&lines=MERN+Stack+Applications;AI+Powered+Web+Projects;Open+Source+Contributions;Placement+Focused+Tools" />
+<!-- Typing animation (clean & inviting) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Have+an+Idea%3F;Building+Something+Meaningful%3F;Open+to+Collaboration;Let’s+Create+and+Grow+Together." />
 
 </div>
 
@@ -153,18 +147,24 @@
 
 <div align="center">
 
-<!-- Friendly closing animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=00EFFF&center=true&width=750&lines=MERN+Stack+Applications;AI+Powered+Web+Projects;Open+Source+Contributions;Placement+Focused+Tools" />
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Friendly closing / connection animation -->
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
 
 <br><br>
 
-📬 **Have something in mind?**  
+📬 **Got something in mind?**  
 Let’s connect and build something impactful 🚀
 
 </div>
 
-
----
 
 # 🌐 **Quote of the Day**
 
