@@ -13,7 +13,8 @@
 ## ✨ **About Me**
 
 <div align="center">
-<img src="https://media.giphy.com/media/26gslU06KjmGg5qH6/giphy.gif" width="380"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"/>
+
 
 </div>
 
