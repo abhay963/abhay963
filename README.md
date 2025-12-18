@@ -93,8 +93,6 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/l0HlQ7LRalGgk2dCk/giphy.gif" width="380"/>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=36BCF7&width=520&lines=AI+Driven+Group+Discussions;Random+Topics+%26+Agents;Voice+Based+Practice;Built+for+Placements" />
 
 </div>
@@ -104,25 +102,21 @@
 
 ---
 
-## 🧭 Nagar Sahayata Portal
+## 🧭 Nagar Sahayata Portal — Civic Issue Platform
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=C17FFF&width=520&lines=Smart+Civic+Issue+Portal;Raise+Complaints;Track+Live+Status;Modern+UX" />
-
-<img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/glow-line.gif" width="330"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=C17FFF&width=520&lines=Smart+Civic+Issue+Portal;Raise+Complaints+Easily;Track+Live+Status;Citizen+Centric+Platform" />
 
 </div>
 
 ---
 
-## 🎬 Netflix Clone — MERN UI
+## 🎬 Netflix Clone — MERN Stack UI
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=FF4747&width=520&lines=Netflix+Style+Streaming+UI;Dynamic+Categories;Auth+%26+Profiles;Smooth+Animations" />
-
-<img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/glow-red.gif" width="330"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=FF4747&width=520&lines=Netflix+Style+Streaming+UI;Dynamic+Movie+Categories;Authentication+%26+Profiles;Smooth+Animations" />
 
 </div>
 
@@ -130,23 +124,45 @@
 
 ---
 
-# 🤝 **Let’s Collaborate**
+# 🤝 Let’s Collaborate
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260"/>
+<!-- Unique collaboration / building animation -->
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="360"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=700&color=00EFFF&width=600&lines=Open+to+Collaboration;Building+MERN+Projects;Open+Source+Contributions;Let’s+Build+Something+Awesome!" />
+<br><br>
+
+<!-- Clean typing animation (different tone & content) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Have+an+Idea%3F;Building+Something+Meaningful%3F;Let’s+Collaborate+and+Create;Code.+Learn.+Grow.+Together." />
 
 </div>
 
-💡 I’m happy to collaborate on:
-- 🚀 **MERN Stack projects**
-- 🌍 **Open-source contributions**
-- 🤖 **AI-powered web apps**
+---
 
+<div align="center">
 
-📬 **Drop a message — let’s build together!**
+✨ **I enjoy collaborating on**
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=700&color=00EFFF&center=true&width=700&lines=MERN+Stack+Applications;AI+Powered+Web+Projects;Open+Source+Contributions;Placement+Focused+Tools" />
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Friendly closing animation -->
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
+
+<br><br>
+
+📬 **Have something in mind?**  
+Let’s connect and build something impactful 🚀
+
+</div>
+
 
 ---
 
