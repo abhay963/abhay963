@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/lofi-bg.gif" width="100%" style="border-radius:12px;opacity:0.85;">
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;MERN+Stack+Developer;DSA+%2B+Interview+Prep" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;MERN+Stack+Developer" />
 
 </div>
 
@@ -13,7 +13,8 @@
 ## ✨ **About Me**
 
 <div align="center">
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="380"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"/>
+
 
 
 
@@ -92,16 +93,8 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+<img src="https://media.giphy.com/media/l0HlQ7LRalGgk2dCk/giphy.gif" width="400"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=700&color=36BCF7&width=520&lines=AI-Powered+GD+Practice;Random+Topics+%26+Agents;Voice-Based+Participation;Built+for+Placements" />
-
-</div>
-
-🔹 Simulates **real Group Discussion environments**  
-🔹 AI-driven agents with **random GD topics**  
-🔹 Improves **confidence, fluency & structure**  
-🔹 Built using **React, Node.js, Express & Firebase**
 
 🌐 **Live Demo:**  
 👉 https://gd-arena-frontend-lzuk.vercel.app/
