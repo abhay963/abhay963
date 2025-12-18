@@ -85,7 +85,7 @@
 
 ---
 
-# 🚀 **Featured Projects**
+# 🚀 Featured Projects
 
 ---
 
@@ -93,29 +93,40 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/l0HlQ7LRalGgk2dCk/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/l0HlQ7LRalGgk2dCk/giphy.gif" width="380"/>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=36BCF7&width=520&lines=AI+Driven+Group+Discussions;Random+Topics+%26+Agents;Voice+Based+Practice;Built+for+Placements" />
+
+</div>
 
 🌐 **Live Demo:**  
 👉 https://gd-arena-frontend-lzuk.vercel.app/
 
 ---
 
-## 🧭 Nagar Sahayata Portal — Civic Issue Platform
+## 🧭 Nagar Sahayata Portal
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=700&color=C17FFF&width=520&lines=Smart+Civic+Issue+Portal;Raise+Complaints+Effortlessly;Track+Live+Status;Modern+User+Experience" />
-<img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/glow-line.gif" width="350" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=C17FFF&width=520&lines=Smart+Civic+Issue+Portal;Raise+Complaints;Track+Live+Status;Modern+UX" />
+
+<img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/glow-line.gif" width="330"/>
+
 </div>
 
 ---
 
-## 🎬 Netflix Clone — MERN Stack Streaming UI
+## 🎬 Netflix Clone — MERN UI
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=700&color=FF4747&width=520&lines=Modern+Netflix+Clone;Dynamic+Movie+Categories;Authentication+%26+Profiles;Smooth+Animations" />
-<img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/glow-red.gif" width="350" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=FF4747&width=520&lines=Netflix+Style+Streaming+UI;Dynamic+Categories;Auth+%26+Profiles;Smooth+Animations" />
+
+<img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/glow-red.gif" width="330"/>
+
 </div>
+
+---
 
 ---
 
