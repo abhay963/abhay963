@@ -13,12 +13,13 @@
 ## ✨ **About Me**
 
 <div align="center">
-<img src="https://media.giphy.com/media/l0HlQ7LRalGgk2dCk/giphy.gif" width="380"/>
+<img src="https://media.giphy.com/media/26gslU06KjmGg5qH6/giphy.gif" width="380"/>
+
 </div>
 
 * 🎓 IT Student @ CEC Landran (3rd Year)  
 * 💻 MERN Stack Developer + DSA (C++)  
-* 💼 Ex-SDE Intern @ Bluestock Fintech  
+
 * 📧 **[abhayyadav96312@gmail.com](mailto:abhayyadav96312@gmail.com)**  
 
 ---
