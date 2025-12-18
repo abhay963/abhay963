@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/lofi-bg.gif" width="100%" style="border-radius:12px;opacity:0.85;">
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;MERN+Stack+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;MERN+Stack+Developer;DSA+%2B+Interview+Prep" />
 
 </div>
 
@@ -12,17 +12,26 @@
 
 ## ✨ **About Me**
 
-* 🎓 IT Student @ CEC Landran (3rd Year)
-* 💻 MERN Stack Developer + DSA (C++)
-* 💼 Ex-SDE Intern @ Bluestock Fintech
-* 📧 **[abhayyadav96312@gmail.com](mailto:abhayyadav96312@gmail.com)**
+<div align="center">
+<img src="https://media.giphy.com/media/l0HlQ7LRalGgk2dCk/giphy.gif" width="380"/>
+</div>
+
+* 🎓 IT Student @ CEC Landran (3rd Year)  
+* 💻 MERN Stack Developer + DSA (C++)  
+* 💼 Ex-SDE Intern @ Bluestock Fintech  
+* 📧 **[abhayyadav96312@gmail.com](mailto:abhayyadav96312@gmail.com)**  
 
 ---
 
 ## 🌐 **Connect With Me**
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay9631)
 [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhay96portfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhayyadav96312@gmail.com)
+
+</div>
 
 ---
 
@@ -37,7 +46,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 
 ### 🧰 Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
@@ -62,37 +71,75 @@
 
 ---
 
-## 🐍 **Consistency & Contribution Graph**
+## 🐍 **Consistency & Growth**
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </div>
 
-> 💡 *Consistency beats motivation. I show up every day.*
+> ❝ Consistency is my biggest advantage ❞  
 
 ---
 
 # 🚀 **Featured Projects**
 
-## 🧭 Nagar Sahayata Portal – Civic Issue Platform
+---
+
+## 🎤 GD Arena — AI-Powered Group Discussion Platform
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1800&pause=700&color=C17FFF&width=500&lines=Smart+Civic+Issue+Portal;Raise+Complaints+Effortlessly;Track+Live+Status;Modern+User+Experience" />
-<br>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=700&color=36BCF7&width=520&lines=AI-Powered+GD+Practice;Random+Topics+%26+Agents;Voice-Based+Participation;Built+for+Placements" />
+
+</div>
+
+🔹 Simulates **real Group Discussion environments**  
+🔹 AI-driven agents with **random GD topics**  
+🔹 Improves **confidence, fluency & structure**  
+🔹 Built using **React, Node.js, Express & Firebase**
+
+🌐 **Live Demo:**  
+👉 https://gd-arena-frontend-lzuk.vercel.app/
+
+---
+
+## 🧭 Nagar Sahayata Portal — Civic Issue Platform
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=700&color=C17FFF&width=520&lines=Smart+Civic+Issue+Portal;Raise+Complaints+Effortlessly;Track+Live+Status;Modern+User+Experience" />
 <img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/glow-line.gif" width="350" />
 </div>
 
 ---
 
-## 🎬 Netflix Clone – MERN / Full-Stack Streaming UI
+## 🎬 Netflix Clone — MERN Stack Streaming UI
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1800&pause=700&color=FF4747&width=500&lines=Modern+Netflix+Clone;Dynamic+Movie+Categories;Sleek+Responsive+UI;Authentication+%26+User+Profiles;Smooth+Frontend+Animations" />
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=700&color=FF4747&width=520&lines=Modern+Netflix+Clone;Dynamic+Movie+Categories;Authentication+%26+Profiles;Smooth+Animations" />
 <img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/glow-red.gif" width="350" />
 </div>
+
+---
+
+# 🤝 **Let’s Collaborate**
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=700&color=00EFFF&width=600&lines=Open+to+Collaboration;Building+MERN+Projects;Open+Source+Contributions;Let’s+Build+Something+Awesome!" />
+
+</div>
+
+💡 I’m happy to collaborate on:
+- 🚀 **MERN Stack projects**
+- 🌍 **Open-source contributions**
+- 🤖 **AI-powered web apps**
+
+
+📬 **Drop a message — let’s build together!**
 
 ---
 
@@ -104,19 +151,9 @@
 
 ---
 
-## 🤝 **Let's Collaborate!**
-
-If you're building in:
-- MERN Stack  
-- Open Source  
-
-I'm open to collaborations 🚀
-
----
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00EFFF&width=500&lines=Thanks+for+visiting!+⭐;Have+a+great+day+coding!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00EFFF&width=500&lines=Thanks+for+visiting!+⭐;Happy+Coding+and+Keep+Building!" />
 <br>
 <img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/coding.gif" width="350px" />
 
