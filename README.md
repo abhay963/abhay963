@@ -1,39 +1,12 @@
-<!-- ================= HERO ================= -->
-
 <div align="center">
 
-### 👋 Hi, I'm
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=42&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Abhay+Kumar+Yadav" />
 
-# **Abhay Kumar Yadav**
+<br><br>
 
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer;MERN+Stack+Developer;DSA+%7C+C%2B%2B+Problem+Solver;Building+Scalable+Systems" />
-</p>
-
----
-
-<div align="center">
-
-**Focused on writing clean, scalable and production-ready code.**
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420" />
 
 </div>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Clean-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Architecture-Scalable-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mindset-Consistent-0D1117?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhay963&style=for-the-badge&color=00C6FF" />
-</p>
-
 
 
 ---
