@@ -1,157 +1,72 @@
-# 👋 Hey, I'm **Abhay Kumar Yadav**
+<!-- ================= HERO ================= -->
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Aditi+Raj;Frontend+Engineer;Building+Modern+Web+Interfaces;Performance+Focused+Developer" />
+</p>
 
-<img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/lofi-bg.gif" width="100%" style="border-radius:12px;opacity:0.85;">
-<br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;MERN+Stack+Developer" />
+<p align="center">
+  <i>Scalable UI systems • Clean architecture • Intentional design</i>
+</p>
 
-</div>
-
----
-
-## ✨ **About Me**
-
-<div align="center">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"/>
-
-
-
-
-</div>
-
-* 🎓 IT Student @ CEC Landran (3rd Year)  
-* 💻 MERN Stack Developer + DSA (C++)  
-
-* 📧 **[abhayyadav96312@gmail.com](mailto:abhayyadav96312@gmail.com)**  
+<p align="center">
+  <a href="https://vercel.com/aditis-projects-ad386cdb">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:aditirh2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aditiraj41/">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🌐 **Connect With Me**
+## About
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay9631)
-[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhay96portfolio.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhayyadav96312@gmail.com)
-
-</div>
+Frontend Engineer focused on building scalable, accessible and high-performance web applications.  
+I transform complex ideas into clean and intuitive interfaces.
 
 ---
 
-## 🛠️ **Tech Stack**
+## Frontend Focus
 
-<div align="center">
-
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
-
-### 🛠️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-
-### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-
-</div>
+- React ecosystem & component architecture  
+- UI consistency & design systems  
+- Performance optimization  
+- Responsive & accessible design  
+- API integration & state management  
 
 ---
 
-# 📊 **GitHub Stats & Streaks**
+## Tech Stack
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhay963&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay963&layout=compact&theme=tokyonight&hide_border=true" />
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay963&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,js,git,github,vscode&theme=dark" />
+</p>
 
 ---
 
-## 🐍 **Consistency & Growth**
+## GitHub Stats
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</div>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Aditi-Raj07&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=9BA1A6"/>
+</p>
 
-> ❝ Consistency is my biggest advantage ❞  
-
----
-
-# 🚀 Featured Projects
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-Raj07&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=9BA1A6"/>
+</p>
 
 ---
 
-## 🎤 GD Arena — AI-Powered Group Discussion Platform
+## Contributions
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=36BCF7&width=520&lines=AI+Driven+Group+Discussions;Random+Topics+%26+Agents;Voice+Based+Practice;Built+for+Placements" />
-
-</div>
-
-🌐 **Live Demo:**  
-👉 https://gd-arena-frontend-lzuk.vercel.app/
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditi-Raj07&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+</p>
 
 ---
 
-## 🧭 Nagar Sahayata Portal — Civic Issue Platform
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=C17FFF&width=520&lines=Smart+Civic+Issue+Portal;Raise+Complaints+Easily;Track+Live+Status;Citizen+Centric+Platform" />
-
-</div>
-
----
-
-## 🎬 Netflix Clone — MERN Stack UI
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=FF4747&width=520&lines=Netflix+Style+Streaming+UI;Dynamic+Movie+Categories;Authentication+%26+Profiles;Smooth+Animations" />
-
-</div>
-
----
-
----
-
-# 🤝 Let’s Collaborate
-
-
-<div align="center">
-
-<!-- Friendly closing / connection animation -->
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
-
-<br><br>
-
-📬 **Got something in mind?**  
-Let’s connect and build something impactful 🚀
-
-</div>
-
-
-# 🌐 **Quote of the Day**
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00EFFF&width=500&lines=Thanks+for+visiting!+⭐;Happy+Coding+and+Keep+Building!" />
-<br>
-<img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/coding.gif" width="350px" />
-
-</div>
+<p align="center">
+  <i>Minimal • Intentional • Impactful</i>
+</p>
