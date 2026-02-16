@@ -1,14 +1,15 @@
-<!-- ================= PREMIUM HERO ================= -->
+# 👋 Hey, I'm **Abhay Kumar Yadav**
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:36D1DC&height=220&section=header&text=Aditi%20Raj&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:36D1DC&height=220&section=header&text=Abhay%20Kumar%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=900&color=36D1DC&center=true&vCenter=true&width=600&lines=Frontend+Engineer;Designing+Modern+Interfaces;React+%7C+Node+%7C+Express;Performance+Focused+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=900&color=36D1DC&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;MERN+Stack+Engineer;DSA+Enthusiast+(C++);Building+Scalable+Systems" />
 
 </div>
+
 
 
 ---
