@@ -1,12 +1,15 @@
-# 👋 Hey, I'm **Abhay Kumar Yadav**
+<!-- ================= PREMIUM HERO ================= -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/lofi-bg.gif" width="100%" style="border-radius:12px;opacity:0.85;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:36D1DC&height=220&section=header&text=Aditi%20Raj&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;MERN+Stack+Developer" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=900&color=36D1DC&center=true&vCenter=true&width=600&lines=Frontend+Engineer;Designing+Modern+Interfaces;React+%7C+Node+%7C+Express;Performance+Focused+Developer" />
 
 </div>
+
 
 ---
 
