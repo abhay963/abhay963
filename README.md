@@ -1,13 +1,12 @@
+# 👋 Hey, I'm **Abhay Kumar Yadav**
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=42&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Abhay+Kumar+Yadav" />
-
-<br><br>
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420" />
+<img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/lofi-bg.gif" width="100%" style="border-radius:12px;opacity:0.85;">
+<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;MERN+Stack+Developer" />
 
 </div>
-
 
 ---
 
