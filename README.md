@@ -2,13 +2,18 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:36D1DC&height=220&section=header&text=Abhay%20Kumar%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=180&section=header"/>
+
+<h2 align="center">Full-Stack Developer</h2>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=MERN+Stack;C%2B%2B+%7C+DSA;Problem+Solver;Consistent+Builder" />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=900&color=36D1DC&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;MERN+Stack+Engineer;DSA+Enthusiast+(C++);Building+Scalable+Systems" />
+<img src="https://komarev.com/ghpvc/?username=abhay963&style=flat-square&color=58A6FF" />
 
 </div>
+
 
 
 
