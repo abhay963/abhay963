@@ -1,81 +1,87 @@
-# ✨ Hi, I'm **Aditi Raj**
+# 👋 Hey, I'm **Abhay Kumar Yadav**
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,50:928DAB,100:36D1DC&height=220&section=header&text=Aditi%20Raj&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=800&color=36D1DC&center=true&vCenter=true&width=700&lines=Frontend+Engineer;UI+Architecture+Enthusiast;React+%7C+Node+%7C+Express;Building+Scalable+Web+Apps" />
+<img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/lofi-bg.gif" width="100%" style="border-radius:12px;opacity:0.85;">
+<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;MERN+Stack+Developer" />
 
 </div>
 
 ---
 
-## 🌟 About Me
+## ✨ **About Me**
 
 <div align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
-</div>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"/>
 
-- 🎓 IT Student (3rd Year)  
-- 💻 Frontend Engineer (React Ecosystem)  
-- ⚡ Performance & Clean Architecture Focused  
-- 🎯 Preparing for Product-Based Companies  
 
----
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=36D1DC)](https://vercel.com/aditis-projects-ad386cdb)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=36D1DC)](https://www.linkedin.com/in/aditiraj41/)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=36D1DC)](mailto:aditirh2006@gmail.com)
 
 </div>
 
+* 🎓 IT Student @ CEC Landran (3rd Year)  
+* 💻 MERN Stack Developer + DSA (C++)  
+
+* 📧 **[abhayyadav96312@gmail.com](mailto:abhayyadav96312@gmail.com)**  
+
 ---
 
-# 🛠 Tech Stack
+## 🌐 **Connect With Me**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay9631)
+[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhay96portfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhayyadav96312@gmail.com)
+
+</div>
+
+---
+
+## 🛠️ **Tech Stack**
 
 <div align="center">
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
 
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+### 🛠️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-### 🗄 Database
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" />
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 
 ### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 </div>
 
 ---
 
-# 📊 GitHub Insights
+# 📊 **GitHub Stats & Streaks**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aditi-Raj07&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=abhay963&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 <br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditi-Raj07&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay963&layout=compact&theme=tokyonight&hide_border=true" />
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-Raj07&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay963&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 🐍 Consistency & Growth
+## 🐍 **Consistency & Growth**
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Aditi-Raj07/Aditi-Raj07/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </div>
 
-> *Small improvements every day create big results.*
+> ❝ Consistency is my biggest advantage ❞  
 
 ---
 
@@ -83,41 +89,58 @@
 
 ---
 
-## 🤖 Interview AI Platform
+## 🎤 GD Arena — AI-Powered Group Discussion Platform
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=36D1DC&width=520&lines=AI+Powered+Mock+Interview+System;Real-time+Question+Generation;Performance+Feedback+Analysis;Built+for+Placement+Preparation" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=36BCF7&width=520&lines=AI+Driven+Group+Discussions;Random+Topics+%26+Agents;Voice+Based+Practice;Built+for+Placements" />
+
 </div>
 
-🔹 AI-based mock interview system  
-🔹 Real-time evaluation & feedback  
-🔹 Backend powered by Node + Express  
-🔹 Designed for interview readiness  
+🌐 **Live Demo:**  
+👉 https://gd-arena-frontend-lzuk.vercel.app/
 
 ---
 
-## 💰 Expense Tracker
+## 🧭 Nagar Sahayata Portal — Civic Issue Platform
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=FF7F50&width=520&lines=Track+Income+%26+Expenses;Clean+UI+Dashboard;MERN+Stack+Project;User-Friendly+Design" />
-</div>
 
-🔹 Income & expense visualization  
-🔹 Dashboard analytics  
-🔹 Clean, responsive UI  
-🔹 Full-stack implementation  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=C17FFF&width=520&lines=Smart+Civic+Issue+Portal;Raise+Complaints+Easily;Track+Live+Status;Citizen+Centric+Platform" />
 
----
-
-# 🧠 Fun Zone
-
-<div align="center">
-<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="280"/>
 </div>
 
 ---
 
-# 🌈 Quote of the Day
+## 🎬 Netflix Clone — MERN Stack UI
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=FF4747&width=520&lines=Netflix+Style+Streaming+UI;Dynamic+Movie+Categories;Authentication+%26+Profiles;Smooth+Animations" />
+
+</div>
+
+---
+
+---
+
+# 🤝 Let’s Collaborate
+
+
+<div align="center">
+
+<!-- Friendly closing / connection animation -->
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
+
+<br><br>
+
+📬 **Got something in mind?**  
+Let’s connect and build something impactful 🚀
+
+</div>
+
+
+# 🌐 **Quote of the Day**
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -127,6 +150,8 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36D1DC&width=500&lines=Thanks+for+visiting!;Let's+Build+Something+Amazing+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00EFFF&width=500&lines=Thanks+for+visiting!+⭐;Happy+Coding+and+Keep+Building!" />
+<br>
+<img src="https://raw.githubusercontent.com/abhay963/abhay963/main/assets/coding.gif" width="350px" />
 
 </div>
