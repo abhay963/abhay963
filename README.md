@@ -62,7 +62,7 @@
           <font color="#34D399"><b>LangChain</b></font> &nbsp;&middot;&nbsp; 
           <font color="#34D399"><b>LangGraph</b></font> &nbsp;&middot;&nbsp; 
           <font color="#F472B6"><b>RAG</b></font> &nbsp;&middot;&nbsp; 
-          <font color="#F472B6"><b>pgvector</b></font>
+        
         </p>
       </td>
     </tr>
@@ -71,126 +71,10 @@
 
 <br />
 
-<!-- ==================== SKILLS GRID ==================== -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
-  <tr>
-    <!-- AI & Reasoning -->
-    <td width="33%" valign="top" style="padding:4px; border:none;">
-      <table width="100%" style="background:#0B0F19; border:1px solid #1E293B; border-radius:8px; padding:14px;">
-        <tr>
-          <td align="left" style="border:none;">
-            <p style="font-family:'Fira Code',monospace; color:#38BDF8; font-weight:bold; font-size:11px; margin:0 0 10px 0;">
-              &#9654; AI &amp; REASONING
-            </p>
-            <img src="https://img.shields.io/badge/Agentic_AI-0F172A?style=flat-square&logo=openai&logoColor=38BDF8" /><br/>
-            <img src="https://img.shields.io/badge/RAG_Pipelines-0F172A?style=flat-square&logo=meta&logoColor=38BDF8" /><br/>
-            <img src="https://img.shields.io/badge/LangChain-0F172A?style=flat-square&logo=python&logoColor=34D399" /><br/>
-            <img src="https://img.shields.io/badge/LangGraph-0F172A?style=flat-square&logo=diagramsdotnet&logoColor=34D399" /><br/>
-            <img src="https://img.shields.io/badge/pgvector-0F172A?style=flat-square&logo=databricks&logoColor=F472B6" />
-          </td>
-        </tr>
-      </table>
-    </td>
-    <!-- Engineering -->
-    <td width="33%" valign="top" style="padding:4px; border:none;">
-      <table width="100%" style="background:#0B0F19; border:1px solid #1E293B; border-radius:8px; padding:14px;">
-        <tr>
-          <td align="left" style="border:none;">
-            <p style="font-family:'Fira Code',monospace; color:#818CF8; font-weight:bold; font-size:11px; margin:0 0 10px 0;">
-              &#9654; ENGINEERING
-            </p>
-            <img src="https://img.shields.io/badge/React.js-0F172A?style=flat-square&logo=react&logoColor=61DAFB" /><br/>
-            <img src="https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=339933" /><br/>
-            <img src="https://img.shields.io/badge/Express.js-0F172A?style=flat-square&logo=express&logoColor=FFF" /><br/>
-            <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=4169E1" /><br/>
-            <img src="https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=47A248" />
-          </td>
-        </tr>
-      </table>
-    </td>
-    <!-- Foundations -->
-    <td width="33%" valign="top" style="padding:4px; border:none;">
-      <table width="100%" style="background:#0B0F19; border:1px solid #1E293B; border-radius:8px; padding:14px;">
-        <tr>
-          <td align="left" style="border:none;">
-            <p style="font-family:'Fira Code',monospace; color:#34D399; font-weight:bold; font-size:11px; margin:0 0 10px 0;">
-              &#9654; FOUNDATIONS
-            </p>
-            <img src="https://img.shields.io/badge/C%2B%2B-0F172A?style=flat-square&logo=cplusplus&logoColor=00599C" /><br/>
-            <img src="https://img.shields.io/badge/LeetCode_1700%2B-0F172A?style=flat-square&logo=leetcode&logoColor=FFA116" /><br/>
-            <img src="https://img.shields.io/badge/OOP_%26_DBMS-0F172A?style=flat-square&logo=database&logoColor=94A3B8" /><br/>
-            <img src="https://img.shields.io/badge/Operating_Systems-0F172A?style=flat-square&logo=linux&logoColor=FCC624" /><br/>
-            <img src="https://img.shields.io/badge/Computer_Networks-0F172A?style=flat-square&logo=cisco&logoColor=1BA0D7" />
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
 
-<br />
 
-<!-- ==================== FEATURED PROJECTS CARDS ==================== -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
-  <tr>
-    <!-- Project 1 -->
-    <td width="33%" valign="top" style="padding:4px; border:none;">
-      <table width="100%" style="background:#0B0F19; border:1px solid #1E293B; border-radius:8px; padding:14px;">
-        <tr>
-          <td style="border:none;">
-            <h4 style="margin:0; font-family:-apple-system,sans-serif; font-size:14px; color:#FFFFFF;">
-              ⚡ Employee Copilot
-            </h4>
-            <p style="font-family:'Fira Code',monospace; font-size:11px; color:#38BDF8; margin:6px 0;">
-              Agentic RAG &middot; LangGraph &middot; pgvector
-            </p>
-            <p style="font-family:-apple-system,sans-serif; font-size:12px; color:#94A3B8; margin:0;">
-              21+ REST APIs &middot; RBAC &middot; OAuth &middot; Tool Calling &middot; LangSmith
-            </p>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <!-- Project 2 -->
-    <td width="33%" valign="top" style="padding:4px; border:none;">
-      <table width="100%" style="background:#0B0F19; border:1px solid #1E293B; border-radius:8px; padding:14px;">
-        <tr>
-          <td style="border:none;">
-            <h4 style="margin:0; font-family:-apple-system,sans-serif; font-size:14px; color:#FFFFFF;">
-              🎙️ GD Arena
-            </h4>
-            <p style="font-family:'Fira Code',monospace; font-size:11px; color:#818CF8; margin:6px 0;">
-              Multi-Agent AI &middot; WebSockets &middot; Groq
-            </p>
-            <p style="font-family:-apple-system,sans-serif; font-size:12px; color:#94A3B8; margin:0;">
-              Real-time voice AI &middot; 2 concurrent agents &middot; Deepgram &middot; Rolling Summary
-            </p>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <!-- Project 3 -->
-    <td width="33%" valign="top" style="padding:4px; border:none;">
-      <table width="100%" style="background:#0B0F19; border:1px solid #1E293B; border-radius:8px; padding:14px;">
-        <tr>
-          <td style="border:none;">
-            <h4 style="margin:0; font-family:-apple-system,sans-serif; font-size:14px; color:#FFFFFF;">
-              🏛️ Nagar Sahayata
-            </h4>
-            <p style="font-family:'Fira Code',monospace; font-size:11px; color:#34D399; margin:6px 0;">
-              MERN &middot; JWT &middot; RBAC &middot; Cloudinary
-            </p>
-            <p style="font-family:-apple-system,sans-serif; font-size:12px; color:#94A3B8; margin:0;">
-              20+ APIs &middot; 10+ departments &middot; SIH Finalist &middot; MongoDB
-            </p>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
 
-<br />
+
 
 <!-- ==================== CONTRIBUTIONS & SNAKE ==================== -->
 <div align="center">
@@ -230,26 +114,5 @@
 
 <br />
 
-<!-- ==================== FOOTER ==================== -->
-<div align="center">
-  <table width="100%" style="border-collapse:collapse;">
-    <tr>
-      <td align="center" style="background:#030712; border-top:1px solid #1E293B; padding:20px 12px;">
-        <p style="font-family:'Fira Code',monospace; font-size:11px; color:#64748B; letter-spacing:1px; margin:0 0 6px 0;">
-          BUILDING AT THE INTERSECTION OF
-        </p>
-        <p style="font-family:-apple-system,sans-serif; font-size:15px; font-weight:bold; color:#F8FAFC; margin:0 0 10px 0;">
-          AI &nbsp;&times;&nbsp; SOFTWARE &nbsp;&times;&nbsp; REAL-WORLD PROBLEMS
-        </p>
-        <p style="font-family:'Fira Code',monospace; font-size:12px; color:#34D399; margin:0 0 14px 0;">
-          &#9679; Available for interesting engineering problems
-        </p>
-        <p style="font-family:'Fira Code',monospace; font-size:12px; color:#94A3B8; margin:0;">
-          <a href="https://github.com/abhay963" style="color:#38BDF8; text-decoration:none;">GitHub</a> &nbsp;&middot;&nbsp; 
-          <a href="https://linkedin.com/in/abhay9631" style="color:#38BDF8; text-decoration:none;">LinkedIn</a> &nbsp;&middot;&nbsp; 
-          <a href="mailto:abhayyadav96312@gmail.com" style="color:#38BDF8; text-decoration:none;">Email</a>
-        </p>
-      </td>
-    </tr>
-  </table>
+
 </div>
