@@ -2,167 +2,211 @@
 
 <!-- ==================== HERO ==================== -->
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;background:#030712;border:1px solid #1E293B;border-radius:12px;">
+<h1>ABHAY KUMAR YADAV</h1>
 
-<tr>
-
-<td width="55%" valign="middle" align="left" style="padding:24px;border:none;">
-
-<h1 style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;font-size:32px;font-weight:800;letter-spacing:-0.5px;color:#FFFFFF;margin:0;">
-ABHAY KUMAR YADAV
-</h1>
-
-<p style="font-family:'Fira Code',monospace;font-size:13px;color:#38BDF8;font-weight:600;margin-top:6px;margin-bottom:14px;">
-Agentic AI Developer &nbsp;|&nbsp; RAG &amp; Multi-Agent Systems &nbsp;|&nbsp; Full-Stack Engineer
+<p>
+  <strong>Agentic AI Developer&nbsp; | &nbsp;RAG & Multi-Agent Systems&nbsp; | &nbsp;Full-Stack Engineer</strong>
 </p>
 
-<div>
+<p>
+  Building intelligent, production-ready AI systems with agentic workflows,
+  retrieval pipelines, and modern full-stack technologies.
+</p>
+
+<br>
 
 <a href="https://abhay96portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" height="24" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-
 &nbsp;
-
 <a href="https://github.com/abhay963">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="24" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-abhay963-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 &nbsp;
-
 <a href="https://linkedin.com/in/abhay9631">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="24" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Abhay%20Kumar%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 &nbsp;
-
 <a href="mailto:abhayyadav96312@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="24" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</div>
-
-</td>
-
-<td width="45%" valign="middle" align="center" style="padding:16px;border:none;">
-
-<a href="https://github.com/abhay963">
+<br><br>
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=abhay963&theme=dark&background=030712&border=1E293B&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=F8FAFC&sideNums=94A3B8&sideTitle=38BDF8&dates=64748B"
-width="100%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=abhay963&theme=dark&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=8B949E&sideTitle=58A6FF&dates=8B949E"
+width="55%"
 alt="GitHub Streak"
 />
 
-</a>
+</div>
 
-</td>
-
-</tr>
-
-</table>
-
-<br />
+<br>
 
 <!-- ==================== TECH STACK ==================== -->
 
-<div align="center">
+<h2>⚡ Tech Stack</h2>
 
-<table width="100%" style="border-collapse:collapse;">
-
+<table>
 <tr>
+<td valign="top" width="50%">
 
-<td align="center" style="background:#0B0F19;border:1px solid #1E293B;border-radius:8px;padding:12px;">
+### AI / GenAI
 
-<img
-src="https://skillicons.dev/icons?i=cpp,py,js,react,nodejs,express,fastapi,postgresql,mongodb,mysql,firebase,git,github,vercel&perline=14"
-alt="Tech Stack"
-/>
-
-<br />
+* Generative AI
+* Agentic AI
+* RAG
+* Multi-Agent Systems
+* LangChain
+* LangGraph
+* LangSmith
+* Embeddings
+* Vector Databases
+* pgvector
+* Gemini
+* Groq AI
+* Deepgram
 
 </td>
 
+<td valign="top" width="50%">
+
+### Backend & APIs
+
+* Node.js
+* Express.js
+* Python
+* FastAPI
+* REST APIs
+* WebSockets
+* JWT
+* RBAC
+* OAuth
+
+</td>
 </tr>
 
+<tr>
+<td valign="top">
+
+### Frontend
+
+* React.js
+* JavaScript
+* HTML
+* CSS
+
+</td>
+
+<td valign="top">
+
+### Databases
+
+* PostgreSQL
+* NeonDB
+* MongoDB
+* MySQL
+* Firebase
+* Vector Databases
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### Languages
+
+* C++
+* Python
+* JavaScript
+
+</td>
+
+<td valign="top">
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* Postman
+* Vercel
+* Railway
+* Cloudinary
+
+</td>
+</tr>
 </table>
 
-</div>
-
-<br />
-
-<!-- ==================== SNAKE ==================== -->
+<br>
 
 <div align="center">
 
-<table width="100%" style="border-collapse:collapse;">
+<img src="https://skillicons.dev/icons?i=cpp,py,js,react,nodejs,express,fastapi,postgres,mongodb,mysql,firebase,git,github,postman,vercel&perline=8" alt="Tech Stack"/>
 
-<tr>
+</div>
 
-<td align="center" style="background:#0B0F19;border:1px solid #1E293B;border-radius:8px;padding:16px;">
+<br>
 
-<p align="left" style="font-family:'Fira Code',monospace;font-size:12px;color:#38BDF8;font-weight:bold;margin:0 0 12px 0;">
-&#9654; CONTRIBUTION SNAKE
+<!-- ==================== WHAT I BUILD ==================== -->
+
+<h2>🧠 What I Build</h2>
+
+<div align="center">
+
+| Area                     | Focus                                                 |
+| ------------------------ | ----------------------------------------------------- |
+| 🤖 **Agentic AI**        | Multi-agent workflows, tool calling & orchestration   |
+| 🔎 **RAG Systems**       | Semantic search, embeddings & context-aware retrieval |
+| 🧩 **AI Applications**   | LLM-powered assistants & intelligent automation       |
+| ⚙️ **Backend Systems**   | REST APIs, WebSockets, authentication & RBAC          |
+| 🌐 **Full-Stack**        | React + Node.js + databases + AI integrations         |
+| 🗄️ **Data & Retrieval** | PostgreSQL, pgvector, MongoDB & vector databases      |
+
+</div>
+
+<br>
+
+<!-- ==================== CURRENT FOCUS ==================== -->
+
+<h2>🚀 Current Focus</h2>
+
+```text
+Agentic AI        ████████████████████  Building intelligent workflows
+RAG Engineering   ███████████████████░  Retrieval & context optimization
+Multi-Agent       ██████████████████░░  Agent orchestration & tool use
+Full-Stack        ███████████████████░  Production-ready AI products
+DSA               ████████████████████  Problem solving & algorithms
+```
+
+<br>
+
+<!-- ==================== CONTRIBUTION SNAKE ==================== -->
+
+<div align="center">
+
+<h2>🐍 Contribution Activity</h2>
+
+<p>
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/abhay963/abhay963/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/abhay963/abhay963/output/github-contribution-grid-snake-dark.svg"
-/>
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/abhay963/abhay963/output/github-contribution-grid-snake.svg"
-/>
-
-<img
-width="100%"
-src="https://raw.githubusercontent.com/abhay963/abhay963/output/github-contribution-grid-snake-dark.svg"
-alt="GitHub Contribution Snake"
-/>
-
-</picture>
-
-</td>
-
-</tr>
-
-</table>
-
 </div>
 
-<br />
+<br>
 
-<!-- ==================== ACTIVITY ==================== -->
+<!-- ==================== FOOTER ==================== -->
 
 <div align="center">
 
-<table width="100%" style="border-collapse:collapse;">
+### Building AI systems. Solving hard problems. Shipping products.
 
-<tr>
-
-<td align="center" style="background:#0B0F19;border:1px solid #1E293B;border-radius:8px;padding:16px;">
-
-<p align="left" style="font-family:'Fira Code',monospace;font-size:12px;color:#818CF8;font-weight:bold;margin:0 0 12px 0;">
-&#9654; ACTIVITY / 3D TERRAIN
-</p>
-
-<img
-width="100%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhay963&theme=github_dark"
-alt="Activity Summary"
-/>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
-<br />
+<a href="https://abhay96portfolio.netlify.app/">
+  <strong>→ Explore My Portfolio</strong>
+</a>
 
 </div>
