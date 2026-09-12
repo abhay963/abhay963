@@ -21,20 +21,8 @@ ABHAY KUMAR YADAV
 Agentic AI Developer &nbsp;|&nbsp; RAG Engineer &nbsp;|&nbsp; Full-Stack
 </p>
 
-<p style="font-family:-apple-system,sans-serif;font-size:13px;color:#94A3B8;line-height:1.6;margin-bottom:18px;">
-Building intelligent systems that
-<br />
 
-<code style="color:#38BDF8;background:#0F172A;padding:2px 6px;border-radius:4px;border:1px solid #1E293B;">reason</code>
 
-&rarr;&nbsp;
-
-<code style="color:#34D399;background:#064E3B;padding:2px 6px;border-radius:4px;border:1px solid #047857;">retrieve</code>
-
-&rarr;&nbsp;
-
-<code style="color:#F472B6;background:#831843;padding:2px 6px;border-radius:4px;border:1px solid #BE185D;">act</code>
-</p>
 
 <div>
 
