@@ -26,11 +26,8 @@ Agentic AI Developer &nbsp;|&nbsp; RAG &amp; Multi-Agent Systems &nbsp;|&nbsp; F
 
 <td width="45%" valign="top" align="center" style="padding:16px;border:none;">
 
-<a href="https://github.com/abhay963">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=2500&pause=800&color=38BDF8&background=03071200&center=true&vCenter=true&width=420&lines=Building+Agentic+AI+Systems...;Orchestrating+Multi-Agent+Workflows;Shipping+RAG+Pipelines+with+LangGraph;console.log(%22Hello%2C+World%22)%3B" alt="Typing SVG" />
-</a>
 
-<br /><br />
+
 
 <img
 src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"
@@ -38,13 +35,7 @@ width="60%"
 alt="Coding Animation"
 />
 
-<br /><br />
 
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=abhay963&theme=dark&background=030712&border=1E293B&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=F8FAFC&sideNums=94A3B8&sideTitle=38BDF8&dates=64748B"
-width="100%"
-alt="GitHub Streak"
-/>
 
 </td>
 
