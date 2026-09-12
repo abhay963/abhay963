@@ -1,290 +1,251 @@
+<!--
+████████████████████████████████████████████████████████████████
+                    ABHAY // AI COMMAND CENTER
+████████████████████████████████████████████████████████████████
+-->
+
 <div align="center">
 
-<!-- HERO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:0B1026,100:071A2B&text=ABHAY%20KUMAR%20YADAV&fontColor=36BCF7&fontSize=42&fontAlignY=42&animation=twinkling&desc=AGENTIC%20AI%20%7C%20RAG%20%7C%20FULL-STACK&descAlignY=62&descSize=17"/>
+<img src="./assets/command-center.svg" width="100%" alt="Abhay AI Command Center"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=36BCF7&center=true&vCenter=true&width=760&lines=Agentic+AI+Developer;RAG+%26+Multi-Agent+Systems;LangChain+%7C+LangGraph+%7C+Python;MERN+%7C+FastAPI+%7C+PostgreSQL;Building+AI+Systems+That+Ship+%F0%9F%9A%80"/>
+<img
+src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=700&color=36BCF7&center=true&vCenter=true&width=850&height=35&lines=INITIALIZING+ABHAY.OS...;AGENTIC+AI+SYSTEMS+%5BONLINE%5D;RAG+PIPELINES+%5BONLINE%5D;FULL-STACK+ENGINEERING+%5BONLINE%5D;BUILDING+SYSTEMS+THAT+THINK+%2B+SHIP"
+alt="typing"
+/>
 
 <br><br>
 
-<a href="https://abhay96portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://abhay96portfolio.netlify.app">
+<img src="https://img.shields.io/badge/◈_PORTFOLIO-36BCF7?style=flat-square&labelColor=05080D"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/abhay9631">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/↗_LINKEDIN-8B5CF6?style=flat-square&labelColor=05080D"/>
 </a>
-
+&nbsp;
 <a href="mailto:abhayyadav96312@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/✉_EMAIL-00D9A6?style=flat-square&labelColor=05080D"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/abhay963">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/⌘_GITHUB-E2E8F0?style=flat-square&labelColor=05080D"/>
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=abhay963&style=for-the-badge&color=36BCF7&label=VISITORS"/>
-
 </div>
-
----
-
-<div align="center">
-
-## `AI ENGINEERING × FULL STACK × DSA`
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,fastapi,postgresql,mongodb,git,github&perline=11"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/LangChain-0B1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-0B1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangSmith-0B1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-0B1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/pgvector-0B1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embeddings-0B1117?style=for-the-badge"/>
-
-</div>
-
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=36BCF7"/>
 
+╭──────────────────────────────────────────────────────────────────╮
+│                                                                  │
+│   ABHAY.OS                                    STATUS: ONLINE     │
+│                                                                  │
+│   ├─ IDENTITY                                                    │
+│   │    └── Agentic AI Developer                                 │
+│   │                                                              │
+│   ├─ SPECIALIZATION                                              │
+│   │    ├── RAG                                                   │
+│   │    ├── Multi-Agent Systems                                   │
+│   │    └── LLM Applications                                     │
+│   │                                                              │
+│   ├─ ENGINEERING                                                 │
+│   │    ├── Python / FastAPI                                     │
+│   │    ├── Node / Express                                       │
+│   │    └── React / PostgreSQL / MongoDB                         │
+│   │                                                              │
+│   └─ SIGNAL                                                      │
+│        └── 1700+ LeetCode  ·  SIH Finalist                      │
+│                                                                  │
+╰──────────────────────────────────────────────────────────────────╯
 </div>
+01 // CORE SYSTEMS
+<div align="center"> <table> <tr> <td align="center" width="20%">
+◉
 
-# ⚡ What I Build
+AGENTS
 
-<div align="center">
+LangGraph
+LangChain
+Tool Calling
 
-<table>
-<tr>
+</td> <td align="center" width="20%">
+◌
 
-<td align="center" width="25%">
+RAG
 
-### 🤖
-
-**AI AGENTS**
-
-LangGraph  
-Tool Calling  
-Multi-Agent
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔎
-
-**RAG**
-
-Embeddings  
-Semantic Search  
+Embeddings
 pgvector
+Semantic Search
 
-</td>
+</td> <td align="center" width="20%">
+λ
 
-<td align="center" width="25%">
+LLMs
 
-### ⚙️
+Gemini
+Groq
+Prompting
 
-**BACKEND**
+</td> <td align="center" width="20%">
+⚡
 
-Node.js  
-FastAPI  
-REST APIs
+BACKEND
 
-</td>
+Python
+FastAPI
+Node.js
 
-<td align="center" width="25%">
+</td> <td align="center" width="20%">
+◇
 
-### 🌐
+SYSTEMS
 
-**FULL STACK**
-
-React  
-MongoDB  
+React
 PostgreSQL
+MongoDB
 
-</td>
+</td> </tr> </table> </div>
+02 // FEATURED SYSTEMS
+<br> <div align="center">
 
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=14&duration=2400&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&height=30&lines=THREE+SYSTEMS.+ONE+ENGINEERING+MINDSET." />
 
-</div>
+</div> <br> <!-- ============================================================ --> <!-- EMPLOYEE COPILOT --> <!-- ============================================================ --> <div align="center">
 
----
-
-# 🚀 Featured Systems
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2200&pause=600&color=8B5CF6&center=true&vCenter=true&width=600&lines=Real+systems.+Real+APIs.+Real+AI."/>
-
-</div>
-
----
-
-## 🧑‍💼 Employee Copilot
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:071A2B,100:111827&text=EMPLOYEE%20COPILOT&fontColor=36BCF7&fontSize=30&animation=twinkling"/>
+<img src="./assets/employee-copilot.png" width="92%" alt="Employee Copilot" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,postgresql"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:071A2B,100:020617&text=EMPLOYEE%20COPILOT&fontColor=36BCF7&fontSize=24&fontAlignY=55" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/LANGGRAPH-36BCF7?style=for-the-badge&labelColor=07111F"/>
-<img src="https://img.shields.io/badge/LANGCHAIN-8B5CF6?style=for-the-badge&labelColor=07111F"/>
-<img src="https://img.shields.io/badge/RAG-00C896?style=for-the-badge&labelColor=07111F"/>
-<img src="https://img.shields.io/badge/PGVECTOR-FFB347?style=for-the-badge&labelColor=07111F"/>
-
-<br><br>
-
-`21+ APIs` &nbsp; • &nbsp; `RBAC` &nbsp; • &nbsp; `OAuth` &nbsp; • &nbsp; `Human-in-the-Loop`
-
-</div>
-
----
-
-## 🎤 GD Arena
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:170F2D,100:071A2B&text=GD%20ARENA&fontColor=C084FC&fontSize=30&animation=twinkling"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/MULTI--AGENT-C084FC?style=for-the-badge&labelColor=07111F"/>
-<img src="https://img.shields.io/badge/VOICE_AI-36BCF7?style=for-the-badge&labelColor=07111F"/>
-<img src="https://img.shields.io/badge/WEBSOCKETS-00C896?style=for-the-badge&labelColor=07111F"/>
-
-<br><br>
-
-`LangGraph` &nbsp; • &nbsp; `Groq` &nbsp; • &nbsp; `Gemini` &nbsp; • &nbsp; `Deepgram`
-
-<br><br>
-
-<a href="https://gd-arena-frontend-lzuk.vercel.app/">
-<img src="https://img.shields.io/badge/▶_LIVE_DEMO-36BCF7?style=for-the-badge&labelColor=07111F"/>
-</a>
-
-</div>
-
----
-
-## 🏙️ Nagar Sahayata
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:172116,100:071A2B&text=NAGAR%20SAHAYATA&fontColor=34D399&fontSize=30&animation=twinkling"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/20%2B_APIs-34D399?style=for-the-badge&labelColor=07111F"/>
-<img src="https://img.shields.io/badge/JWT-36BCF7?style=for-the-badge&labelColor=07111F"/>
-<img src="https://img.shields.io/badge/RBAC-C084FC?style=for-the-badge&labelColor=07111F"/>
-<img src="https://img.shields.io/badge/SIH_FINALIST-FFB347?style=for-the-badge&labelColor=07111F"/>
-
-</div>
-
----
-
-# 🧠 Engineering Stack
-
-<div align="center">
-
-| | |
-|:---:|:---:|
-| 🤖 **AI** | `LangChain` `LangGraph` `RAG` `LLMs` |
-| 🐍 **Backend** | `Python` `FastAPI` `Node.js` `Express` |
-| ⚛️ **Frontend** | `React` `JavaScript` `HTML` `CSS` |
-| 🗄️ **Data** | `PostgreSQL` `pgvector` `MongoDB` `MySQL` |
-| 🔌 **APIs** | `REST` `WebSockets` `OAuth` `JWT` |
-| 🧩 **Core** | `C++` `DSA` `OOP` `DBMS` `OS` `CN` |
-
-</div>
-
----
-
-<div align="center">
-
-# 📊 GitHub Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhay963&show_icons=true&hide_border=true&bg_color=0B1117&title_color=36BCF7&icon_color=8B5CF6&text_color=FFFFFF&rank_icon=github"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay963&layout=compact&hide_border=true&bg_color=0B1117&title_color=36BCF7&text_color=FFFFFF"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay963&hide_border=true&background=0B1117&ring=36BCF7&fire=8B5CF6&currStreakLabel=36BCF7"/>
-
-</div>
-
----
-
-# 🐍 Contribution Flow
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+AGENTIC RAG · LANGGRAPH · LANGCHAIN · GEMINI
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2500&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=COMMIT+%E2%86%92+BUILD+%E2%86%92+DEBUG+%E2%86%92+SHIP"/>
-
-</div>
-
----
-
-# 🏆 Signals
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/LEETCODE-1700%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GFG-TOP_10-00C896?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SIH_2025-COLLEGE_FINALIST-8B5CF6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/B.TECH_IT-8.8_CGPA-36BCF7?style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:071A2B,50:0B1026,100:050816&animation=twinkling"/>
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=600&lines=BUILD.+BREAK.+DEBUG.+SHIP.+%F0%9F%9A%80"/>
+POSTGRESQL · PGVECTOR · RBAC · OAUTH
 
 <br><br>
 
-<a href="https://abhay96portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-36BCF7?style=for-the-badge&labelColor=07111F"/>
-</a>
+<img src="https://img.shields.io/badge/21%2B_APIs-36BCF7?style=flat-square&labelColor=020617"/> <img src="https://img.shields.io/badge/TOOL_CALLING-8B5CF6?style=flat-square&labelColor=020617"/> <img src="https://img.shields.io/badge/HUMAN_IN_LOOP-00D9A6?style=flat-square&labelColor=020617"/> </div> <br>
+
+Enterprise AI assistant with agent routing, permission-aware retrieval, external tools and human approval.
+
+<br> <!-- ============================================================ --> <!-- GD ARENA --> <!-- ============================================================ --> <div align="center">
+
+<img src="./assets/gd-arena.png" width="92%" alt="GD Arena" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:180B2B,100:020617&text=GD%20ARENA&fontColor=C084FC&fontSize=24&fontAlignY=55" />
+
+<br><br>
+
+MULTI-AGENT · LANGGRAPH · GROQ · GEMINI
+
+<br>
+
+DEEPGRAM · WEBSOCKETS · PGVECTOR · NEONDB
+
+<br><br>
+
+<img src="https://img.shields.io/badge/REAL_TIME_AI-C084FC?style=flat-square&labelColor=020617"/> <img src="https://img.shields.io/badge/VOICE_AI-36BCF7?style=flat-square&labelColor=020617"/> <img src="https://img.shields.io/badge/MULTI_AGENT-00D9A6?style=flat-square&labelColor=020617"/>
+
+<br><br>
+
+<a href="https://gd-arena-frontend-lzuk.vercel.app"> <img src="https://img.shields.io/badge/↗_LIVE_SYSTEM-36BCF7?style=for-the-badge&labelColor=020617"/> </a> </div> <br>
+
+Real-time AI group discussion system with concurrent agents, voice interaction and token-efficient context.
+
+<br> <!-- ============================================================ --> <!-- NAGAR SAHAYATA --> <!-- ============================================================ --> <div align="center">
+
+<img src="./assets/nagar-sahayata.png" width="92%" alt="Nagar Sahayata" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:062019,100:020617&text=NAGAR%20SAHAYATA&fontColor=34D399&fontSize=24&fontAlignY=55" />
+
+<br><br>
+
+REACT · NODE · EXPRESS · MONGODB
+
+<br>
+
+JWT · RBAC · CLOUDINARY · REST
+
+<br><br>
+
+<img src="https://img.shields.io/badge/20%2B_APIs-34D399?style=flat-square&labelColor=020617"/> <img src="https://img.shields.io/badge/3_ROLES-8B5CF6?style=flat-square&labelColor=020617"/> <img src="https://img.shields.io/badge/SIH_FINALIST-FFB347?style=flat-square&labelColor=020617"/> </div> <br>
+
+Civic complaint platform with role-based workflows and department routing.
+
+03 // ENGINEERING STACK
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,fastapi,postgresql,mongodb,mysql,git,github&perline=6"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI-AGENTIC_AI-36BCF7?style=for-the-badge&labelColor=05080D"/> <img src="https://img.shields.io/badge/RETRIEVAL-RAG-8B5CF6?style=for-the-badge&labelColor=05080D"/> <img src="https://img.shields.io/badge/BACKEND-FASTAPI-00D9A6?style=for-the-badge&labelColor=05080D"/> <img src="https://img.shields.io/badge/FULLSTACK-MERN-FFB347?style=for-the-badge&labelColor=05080D"/> </div>
+04 // LIVE TELEMETRY
+<div align="center">
+
+<img src="./metrics.svg" width="100%" alt="GitHub metrics" />
 
 </div>
+05 // CONTRIBUTION MATRIX
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
+
+</div>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake" />
+
+</div>
+06 // PERFORMANCE
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abhay963&show_icons=true&hide_border=true&bg_color=05080D&title_color=36BCF7&icon_color=8B5CF6&text_color=E2E8F0&rank_icon=github&include_all_commits=true" height="175" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay963&layout=compact&hide_border=true&bg_color=05080D&title_color=36BCF7&text_color=E2E8F0&langs_count=7" height="175" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay963&theme=transparent&hide_border=true&background=05080D&ring=36BCF7&fire=8B5CF6&currStreakLabel=36BCF7&sideLabels=E2E8F0&dates=64748B" width="65%" />
+
+</div>
+07 // ACHIEVEMENT LOG
+<div align="center">
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  [✓] LEETCODE          1700+ CONTEST RATING             │
+│                                                         │
+│  [✓] GEEKSFORGEEKS     TOP 10                           │
+│                                                         │
+│  [✓] SIH 2025          COLLEGE FINALIST                 │
+│                                                         │
+│  [✓] B.TECH IT         8.8 / 10 CGPA                    │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+</div>
+08 // CONNECT
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&color=36BCF7&center=true&vCenter=true&width=650&height=30&lines=LOOKING+FORWARD+TO+BUILDING+WHAT'S+NEXT." />
+
+<br><br>
+
+<a href="https://abhay96portfolio.netlify.app"> <img src="https://img.shields.io/badge/PORTFOLIO-36BCF7?style=for-the-badge&labelColor=05080D"/> </a> <a href="https://www.linkedin.com/in/abhay9631"> <img src="https://img.shields.io/badge/LINKEDIN-8B5CF6?style=for-the-badge&labelColor=05080D"/> </a> <a href="mailto:abhayyadav96312@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-00D9A6?style=for-the-badge&labelColor=05080D"/> </a>
+
+<br><br>
+
+<sub>© ABHAY KUMAR YADAV // AI ENGINEERING // 2026</sub>
+
+</div> 
