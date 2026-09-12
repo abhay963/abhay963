@@ -1,212 +1,104 @@
 <div align="center">
+  <!-- ==================== HERO ==================== -->
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;background:#030712;border:1px solid #1E293B;border-radius:12px;">
+    <tr>
+      <td width="55%" valign="middle" align="left" style="padding:24px;border:none;">
+        <h1 style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;font-size:32px;font-weight:800;letter-spacing:-0.5px;color:#FFFFFF;margin:0;">
+          ABHAY KUMAR YADAV
+        </h1>
+        <p style="font-family:'Fira Code',monospace;font-size:13px;color:#38BDF8;font-weight:600;margin-top:6px;margin-bottom:16px;">
+          Agentic AI Developer &nbsp;|&nbsp; RAG & Multi-Agent Systems Specialist &nbsp;|&nbsp; Full-Stack Developer
+        </p>
+        <div>
+          <a href="https://abhay96portfolio.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white" height="26" alt="Portfolio" />
+          </a>
+          &nbsp;
+          <a href="https://github.com/abhay963" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="26" alt="GitHub" />
+          </a>
+          &nbsp;
+          <a href="https://linkedin.com/in/abhay9631" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="26" alt="LinkedIn" />
+          </a>
+          &nbsp;
+          <a href="mailto:abhayyadav96312@gmail.com">
+            <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="26" alt="Email" />
+          </a>
+        </div>
+      </td>
+      <td width="45%" valign="middle" align="center" style="padding:16px;border:none;">
+        <a href="https://github.com/abhay963">
+          <img
+            src="https://github-readme-streak-stats.herokuapp.com/?user=abhay963&theme=dark&background=030712&border=1E293B&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=F8FAFC&sideNums=94A3B8&sideTitle=38BDF8&dates=64748B"
+            width="100%"
+            alt="GitHub Streak"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
 
-<!-- ==================== HERO ==================== -->
+  <br />
 
-<h1>ABHAY KUMAR YADAV</h1>
+  <!-- ==================== TECH STACK & SKILLS ==================== -->
+  <table width="100%" style="border-collapse:collapse;">
+    <tr>
+      <td align="center" style="background:#0B0F19;border:1px solid #1E293B;border-radius:8px;padding:20px;">
+        <p align="left" style="font-family:'Fira Code',monospace;font-size:12px;color:#38BDF8;font-weight:bold;margin:0 0 16px 0;">
+          &#9654; TECH STACK & CORE COMPETENCIES
+        </p>
+        
+        <!-- Skill Icons -->
+        <img
+          src="https://skillicons.dev/icons?i=py,fastapi,cpp,js,react,nodejs,express,postgres,mongodb,git,github,vercel&perline=12"
+          alt="Tech Stack Icons"
+        />
+        
+        <br /><br />
 
-<p>
-  <strong>Agentic AI Developer&nbsp; | &nbsp;RAG & Multi-Agent Systems&nbsp; | &nbsp;Full-Stack Engineer</strong>
-</p>
+        <!-- Detailed Skill Categorization from Resume -->
+        <table width="100%" border="0" style="border-collapse:collapse;text-align:left;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;font-size:13px;color:#94A3B8;">
+          <tr>
+            <td width="50%" style="padding:8px;vertical-align:top;">
+              <strong style="color:#F8FAFC;">🤖 AI / GenAI / Agentic Frameworks:</strong><br />
+              LangChain, LangGraph, LangSmith, RAG, Embeddings, Vector Databases, pgvector
+            </td>
+            <td width="50%" style="padding:8px;vertical-align:top;">
+              <strong style="color:#F8FAFC;">💻 Core Programming & Backend:</strong><br />
+              Python, FastAPI, C++, JavaScript, Node.js, Express.js, REST APIs, WebSockets
+            </td>
+          </tr>
+          <tr>
+            <td width="50%" style="padding:8px;vertical-align:top;">
+              <strong style="color:#F8FAFC;">🗄️ Databases & Cloud Tools:</strong><br />
+              PostgreSQL, MongoDB, MySQL, NeonDB, Firebase, Git, GitHub, Postman, Vercel, Railway
+            </td>
+            <td width="50%" style="padding:8px;vertical-align:top;">
+              <strong style="color:#F8FAFC;">🧠 Computer Science Fundamentals:</strong><br />
+              Data Structures & Algorithms (1700+ LeetCode), OOP, DBMS, Operating Systems, Computer Networks
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
 
-<p>
-  Building intelligent, production-ready AI systems with agentic workflows,
-  retrieval pipelines, and modern full-stack technologies.
-</p>
+  <br />
 
-<br>
-
-<a href="https://abhay96portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/abhay963">
-  <img src="https://img.shields.io/badge/GitHub-abhay963-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/abhay9631">
-  <img src="https://img.shields.io/badge/LinkedIn-Abhay%20Kumar%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:abhayyadav96312@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=abhay963&theme=dark&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=8B949E&sideTitle=58A6FF&dates=8B949E"
-width="55%"
-alt="GitHub Streak"
-/>
-
-</div>
-
-<br>
-
-<!-- ==================== TECH STACK ==================== -->
-
-<h2>⚡ Tech Stack</h2>
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### AI / GenAI
-
-* Generative AI
-* Agentic AI
-* RAG
-* Multi-Agent Systems
-* LangChain
-* LangGraph
-* LangSmith
-* Embeddings
-* Vector Databases
-* pgvector
-* Gemini
-* Groq AI
-* Deepgram
-
-</td>
-
-<td valign="top" width="50%">
-
-### Backend & APIs
-
-* Node.js
-* Express.js
-* Python
-* FastAPI
-* REST APIs
-* WebSockets
-* JWT
-* RBAC
-* OAuth
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-### Frontend
-
-* React.js
-* JavaScript
-* HTML
-* CSS
-
-</td>
-
-<td valign="top">
-
-### Databases
-
-* PostgreSQL
-* NeonDB
-* MongoDB
-* MySQL
-* Firebase
-* Vector Databases
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-### Languages
-
-* C++
-* Python
-* JavaScript
-
-</td>
-
-<td valign="top">
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* Postman
-* Vercel
-* Railway
-* Cloudinary
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,py,js,react,nodejs,express,fastapi,postgres,mongodb,mysql,firebase,git,github,postman,vercel&perline=8" alt="Tech Stack"/>
-
-</div>
-
-<br>
-
-<!-- ==================== WHAT I BUILD ==================== -->
-
-<h2>🧠 What I Build</h2>
-
-<div align="center">
-
-| Area                     | Focus                                                 |
-| ------------------------ | ----------------------------------------------------- |
-| 🤖 **Agentic AI**        | Multi-agent workflows, tool calling & orchestration   |
-| 🔎 **RAG Systems**       | Semantic search, embeddings & context-aware retrieval |
-| 🧩 **AI Applications**   | LLM-powered assistants & intelligent automation       |
-| ⚙️ **Backend Systems**   | REST APIs, WebSockets, authentication & RBAC          |
-| 🌐 **Full-Stack**        | React + Node.js + databases + AI integrations         |
-| 🗄️ **Data & Retrieval** | PostgreSQL, pgvector, MongoDB & vector databases      |
-
-</div>
-
-<br>
-
-<!-- ==================== CURRENT FOCUS ==================== -->
-
-<h2>🚀 Current Focus</h2>
-
-```text
-Agentic AI        ████████████████████  Building intelligent workflows
-RAG Engineering   ███████████████████░  Retrieval & context optimization
-Multi-Agent       ██████████████████░░  Agent orchestration & tool use
-Full-Stack        ███████████████████░  Production-ready AI products
-DSA               ████████████████████  Problem solving & algorithms
-```
-
-<br>
-
-<!-- ==================== CONTRIBUTION SNAKE ==================== -->
-
-<div align="center">
-
-<h2>🐍 Contribution Activity</h2>
-
-<p>
-  <img
-    width="100%"
-    src="https://raw.githubusercontent.com/abhay963/abhay963/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
-
-</div>
-
-<br>
-
-<!-- ==================== FOOTER ==================== -->
-
-<div align="center">
-
-### Building AI systems. Solving hard problems. Shipping products.
-
-<a href="https://abhay96portfolio.netlify.app/">
-  <strong>→ Explore My Portfolio</strong>
-</a>
-
+  <!-- ==================== ACTIVITY ==================== -->
+  <table width="100%" style="border-collapse:collapse;">
+    <tr>
+      <td align="center" style="background:#0B0F19;border:1px solid #1E293B;border-radius:8px;padding:16px;">
+        <p align="left" style="font-family:'Fira Code',monospace;font-size:12px;color:#818CF8;font-weight:bold;margin:0 0 12px 0;">
+          &#9654; GITHUB ACTIVITY & PERFORMANCE
+        </p>
+        <img
+          width="100%"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhay963&theme=github_dark"
+          alt="Activity Summary"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
