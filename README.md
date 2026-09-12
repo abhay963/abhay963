@@ -18,7 +18,7 @@ Agentic AI Developer &nbsp;|&nbsp; RAG &amp; Multi-Agent Systems &nbsp;|&nbsp; F
 
 <div style="display:flex;flex-wrap:wrap;gap:8px;">
 
-<a href="https://abhay96portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" height="24" alt="Portfolio" /></a><a href="https://github.com/abhay963"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="24" alt="GitHub" /></a><a href="https://linkedin.com/in/abhay9631"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="24" alt="LinkedIn" /></a><a href="mailto:abhayyadav96312@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="24" alt="Email" /></a>
+<a href="https://abhay96portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" height="24" alt="Portfolio" /></a><a href="https://linkedin.com/in/abhay9631"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="24" alt="LinkedIn" /></a><a href="mailto:abhayyadav96312@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="24" alt="Email" /></a>
 
 </div>
 
