@@ -1,36 +1,23 @@
-<!--
-████████████████████████████████████████████████████████████████
-                    ABHAY // AI COMMAND CENTER
-████████████████████████████████████████████████████████████████
--->
-
 <div align="center">
 
-<img src="./assets/command-center.svg" width="100%" alt="Abhay AI Command Center"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:061A2E,100:000000&text=ABHAY%20KUMAR%20YADAV&fontColor=FFFFFF&fontSize=46&fontAlignY=38&animation=fadeIn&desc=AGENTIC%20AI%20%20•%20%20RAG%20%20•%20%20FULL%20STACK&descColor=36BCF7&descSize=18&descAlignY=58"/>
 
 <br>
 
-<img
-src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=700&color=36BCF7&center=true&vCenter=true&width=850&height=35&lines=INITIALIZING+ABHAY.OS...;AGENTIC+AI+SYSTEMS+%5BONLINE%5D;RAG+PIPELINES+%5BONLINE%5D;FULL-STACK+ENGINEERING+%5BONLINE%5D;BUILDING+SYSTEMS+THAT+THINK+%2B+SHIP"
-alt="typing"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=19&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=750&lines=I+BUILD+AI+SYSTEMS.;I+BUILD+FULL+STACK+PRODUCTS.;I+SOLVE+HARD+PROBLEMS.;I+SHIP+WHAT+I+BUILD." />
 
 <br><br>
 
-<a href="https://abhay96portfolio.netlify.app">
-<img src="https://img.shields.io/badge/◈_PORTFOLIO-36BCF7?style=flat-square&labelColor=05080D"/>
+<a href="https://abhay96portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/%E2%86%92%20PORTFOLIO-36BCF7?style=for-the-badge&labelColor=000000"/>
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/abhay9631">
-<img src="https://img.shields.io/badge/↗_LINKEDIN-8B5CF6?style=flat-square&labelColor=05080D"/>
+<img src="https://img.shields.io/badge/%E2%86%92%20LINKEDIN-8B5CF6?style=for-the-badge&labelColor=000000"/>
 </a>
-&nbsp;
+
 <a href="mailto:abhayyadav96312@gmail.com">
-<img src="https://img.shields.io/badge/✉_EMAIL-00D9A6?style=flat-square&labelColor=05080D"/>
-</a>
-&nbsp;
-<a href="https://github.com/abhay963">
-<img src="https://img.shields.io/badge/⌘_GITHUB-E2E8F0?style=flat-square&labelColor=05080D"/>
+<img src="https://img.shields.io/badge/%E2%86%92%20EMAIL-00D9A6?style=for-the-badge&labelColor=000000"/>
 </a>
 
 </div>
@@ -41,211 +28,338 @@ alt="typing"
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=36BCF7"/>
 
-╭──────────────────────────────────────────────────────────────────╮
-│                                                                  │
-│   ABHAY.OS                                    STATUS: ONLINE     │
-│                                                                  │
-│   ├─ IDENTITY                                                    │
-│   │    └── Agentic AI Developer                                 │
-│   │                                                              │
-│   ├─ SPECIALIZATION                                              │
-│   │    ├── RAG                                                   │
-│   │    ├── Multi-Agent Systems                                   │
-│   │    └── LLM Applications                                     │
-│   │                                                              │
-│   ├─ ENGINEERING                                                 │
-│   │    ├── Python / FastAPI                                     │
-│   │    ├── Node / Express                                       │
-│   │    └── React / PostgreSQL / MongoDB                         │
-│   │                                                              │
-│   └─ SIGNAL                                                      │
-│        └── 1700+ LeetCode  ·  SIH Finalist                      │
-│                                                                  │
-╰──────────────────────────────────────────────────────────────────╯
+<br><br>
+
+## `BUILDING AT THE INTERSECTION OF AI & SOFTWARE`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,fastapi,postgresql,mongodb,git,github&perline=11"/>
+
+<br><br>
+
+`LANGCHAIN` &nbsp;&nbsp; `LANGGRAPH` &nbsp;&nbsp; `LANGSMITH` &nbsp;&nbsp; `RAG` &nbsp;&nbsp; `PGVECTOR`
+
 </div>
-01 // CORE SYSTEMS
-<div align="center"> <table> <tr> <td align="center" width="20%">
-◉
 
-AGENTS
+---
 
-LangGraph
-LangChain
-Tool Calling
+# ✦ 01 / WHAT I DO
 
-</td> <td align="center" width="20%">
-◌
+<div align="center">
 
-RAG
+<table>
+<tr>
 
-Embeddings
-pgvector
-Semantic Search
+<td align="center" width="33%">
 
-</td> <td align="center" width="20%">
-λ
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png"/>
 
-LLMs
+### AI ENGINEERING
 
-Gemini
-Groq
-Prompting
+Agentic AI  
+RAG Systems  
+Multi-Agent Workflows  
+LLM Applications
 
-</td> <td align="center" width="20%">
-⚡
+</td>
 
-BACKEND
+<td align="center" width="33%">
 
-Python
+<img src="https://img.icons8.com/fluency/96/code.png"/>
+
+### SOFTWARE
+
+React  
+Node.js  
+Python  
 FastAPI
-Node.js
 
-</td> <td align="center" width="20%">
-◇
+</td>
 
-SYSTEMS
+<td align="center" width="33%">
 
-React
-PostgreSQL
-MongoDB
+<img src="https://img.icons8.com/fluency/96/database.png"/>
 
-</td> </tr> </table> </div>
-02 // FEATURED SYSTEMS
-<br> <div align="center">
+### DATA
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=14&duration=2400&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&height=30&lines=THREE+SYSTEMS.+ONE+ENGINEERING+MINDSET." />
+PostgreSQL  
+pgvector  
+MongoDB  
+Embeddings
 
-</div> <br> <!-- ============================================================ --> <!-- EMPLOYEE COPILOT --> <!-- ============================================================ --> <div align="center">
+</td>
 
-<img src="./assets/employee-copilot.png" width="92%" alt="Employee Copilot" />
+</tr>
+</table>
 
-<br><br>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:071A2B,100:020617&text=EMPLOYEE%20COPILOT&fontColor=36BCF7&fontSize=24&fontAlignY=55" />
+---
 
-<br><br>
-
-AGENTIC RAG · LANGGRAPH · LANGCHAIN · GEMINI
+# ✦ 02 / SELECTED WORK
 
 <br>
 
-POSTGRESQL · PGVECTOR · RBAC · OAUTH
+<div align="center">
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=2200&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=THREE+PROJECTS.+THREE+DIFFERENT+PROBLEMS." />
 
-<img src="https://img.shields.io/badge/21%2B_APIs-36BCF7?style=flat-square&labelColor=020617"/> <img src="https://img.shields.io/badge/TOOL_CALLING-8B5CF6?style=flat-square&labelColor=020617"/> <img src="https://img.shields.io/badge/HUMAN_IN_LOOP-00D9A6?style=flat-square&labelColor=020617"/> </div> <br>
-
-Enterprise AI assistant with agent routing, permission-aware retrieval, external tools and human approval.
-
-<br> <!-- ============================================================ --> <!-- GD ARENA --> <!-- ============================================================ --> <div align="center">
-
-<img src="./assets/gd-arena.png" width="92%" alt="GD Arena" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:180B2B,100:020617&text=GD%20ARENA&fontColor=C084FC&fontSize=24&fontAlignY=55" />
-
-<br><br>
-
-MULTI-AGENT · LANGGRAPH · GROQ · GEMINI
+</div>
 
 <br>
 
-DEEPGRAM · WEBSOCKETS · PGVECTOR · NEONDB
+<!-- PROJECT 01 -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:061A2E,100:020617&text=EMPLOYEE%20COPILOT&fontColor=36BCF7&fontSize=28&fontAlignY=55"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/REAL_TIME_AI-C084FC?style=flat-square&labelColor=020617"/> <img src="https://img.shields.io/badge/VOICE_AI-36BCF7?style=flat-square&labelColor=020617"/> <img src="https://img.shields.io/badge/MULTI_AGENT-00D9A6?style=flat-square&labelColor=020617"/>
+<img src="./assets/employee-copilot.png" width="90%"/>
 
 <br><br>
 
-<a href="https://gd-arena-frontend-lzuk.vercel.app"> <img src="https://img.shields.io/badge/↗_LIVE_SYSTEM-36BCF7?style=for-the-badge&labelColor=020617"/> </a> </div> <br>
-
-Real-time AI group discussion system with concurrent agents, voice interaction and token-efficient context.
-
-<br> <!-- ============================================================ --> <!-- NAGAR SAHAYATA --> <!-- ============================================================ --> <div align="center">
-
-<img src="./assets/nagar-sahayata.png" width="92%" alt="Nagar Sahayata" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,postgresql"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:062019,100:020617&text=NAGAR%20SAHAYATA&fontColor=34D399&fontSize=24&fontAlignY=55" />
+`LangGraph` · `LangChain` · `Gemini` · `RAG` · `pgvector`
 
 <br><br>
 
-REACT · NODE · EXPRESS · MONGODB
+<img src="https://img.shields.io/badge/21%2B_APIS-36BCF7?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/RBAC-8B5CF6?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/OAUTH-00D9A6?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/HITL-FFB347?style=flat-square&labelColor=000000"/>
+
+</div>
 
 <br>
 
-JWT · RBAC · CLOUDINARY · REST
+<div align="center">
+
+> **Enterprise AI Copilot**  
+> Agent routing · Tool calling · Permission-aware RAG · Human approval
+
+</div>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/20%2B_APIs-34D399?style=flat-square&labelColor=020617"/> <img src="https://img.shields.io/badge/3_ROLES-8B5CF6?style=flat-square&labelColor=020617"/> <img src="https://img.shields.io/badge/SIH_FINALIST-FFB347?style=flat-square&labelColor=020617"/> </div> <br>
+---
 
-Civic complaint platform with role-based workflows and department routing.
+<!-- PROJECT 02 -->
 
-03 // ENGINEERING STACK
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,fastapi,postgresql,mongodb,mysql,git,github&perline=6"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:170B2B,100:020617&text=GD%20ARENA&fontColor=C084FC&fontSize=28&fontAlignY=55"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AI-AGENTIC_AI-36BCF7?style=for-the-badge&labelColor=05080D"/> <img src="https://img.shields.io/badge/RETRIEVAL-RAG-8B5CF6?style=for-the-badge&labelColor=05080D"/> <img src="https://img.shields.io/badge/BACKEND-FASTAPI-00D9A6?style=for-the-badge&labelColor=05080D"/> <img src="https://img.shields.io/badge/FULLSTACK-MERN-FFB347?style=for-the-badge&labelColor=05080D"/> </div>
-04 // LIVE TELEMETRY
-<div align="center">
-
-<img src="./metrics.svg" width="100%" alt="GitHub metrics" />
-
-</div>
-05 // CONTRIBUTION MATRIX
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
-
-</div>
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake" />
-
-</div>
-06 // PERFORMANCE
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhay963&show_icons=true&hide_border=true&bg_color=05080D&title_color=36BCF7&icon_color=8B5CF6&text_color=E2E8F0&rank_icon=github&include_all_commits=true" height="175" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay963&layout=compact&hide_border=true&bg_color=05080D&title_color=36BCF7&text_color=E2E8F0&langs_count=7" height="175" />
+<img src="./assets/gd-arena.png" width="90%"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay963&theme=transparent&hide_border=true&background=05080D&ring=36BCF7&fire=8B5CF6&currStreakLabel=36BCF7&sideLabels=E2E8F0&dates=64748B" width="65%" />
-
-</div>
-07 // ACHIEVEMENT LOG
-<div align="center">
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  [✓] LEETCODE          1700+ CONTEST RATING             │
-│                                                         │
-│  [✓] GEEKSFORGEEKS     TOP 10                           │
-│                                                         │
-│  [✓] SIH 2025          COLLEGE FINALIST                 │
-│                                                         │
-│  [✓] B.TECH IT         8.8 / 10 CGPA                    │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-</div>
-08 // CONNECT
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&color=36BCF7&center=true&vCenter=true&width=650&height=30&lines=LOOKING+FORWARD+TO+BUILDING+WHAT'S+NEXT." />
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb"/>
 
 <br><br>
 
-<a href="https://abhay96portfolio.netlify.app"> <img src="https://img.shields.io/badge/PORTFOLIO-36BCF7?style=for-the-badge&labelColor=05080D"/> </a> <a href="https://www.linkedin.com/in/abhay9631"> <img src="https://img.shields.io/badge/LINKEDIN-8B5CF6?style=for-the-badge&labelColor=05080D"/> </a> <a href="mailto:abhayyadav96312@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-00D9A6?style=for-the-badge&labelColor=05080D"/> </a>
+`LangGraph` · `LangChain` · `Groq` · `Gemini` · `Deepgram`
+
+<br>
+
+`WebSockets` · `pgvector` · `NeonDB`
 
 <br><br>
 
-<sub>© ABHAY KUMAR YADAV // AI ENGINEERING // 2026</sub>
+<img src="https://img.shields.io/badge/MULTI_AGENT-C084FC?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/VOICE_AI-36BCF7?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/REAL_TIME-00D9A6?style=flat-square&labelColor=000000"/>
 
-</div> 
+<br><br>
+
+<a href="https://gd-arena-frontend-lzuk.vercel.app/">
+<img src="https://img.shields.io/badge/%E2%86%97%20LIVE%20PROJECT-36BCF7?style=for-the-badge&labelColor=000000"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+> **Real-Time AI Group Discussion**  
+> Multi-agent conversations · Voice AI · Performance evaluation
+
+</div>
+
+<br><br>
+
+---
+
+<!-- PROJECT 03 -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:062019,100:020617&text=NAGAR%20SAHAYATA&fontColor=34D399&fontSize=28&fontAlignY=55"/>
+
+<br><br>
+
+<img src="./assets/nagar-sahayata.png" width="90%"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
+
+<br><br>
+
+`JWT` · `RBAC` · `REST APIs` · `Cloudinary`
+
+<br><br>
+
+<img src="https://img.shields.io/badge/20%2B_APIS-34D399?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/3_ROLES-8B5CF6?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/SIH_FINALIST-FFB347?style=flat-square&labelColor=000000"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+> **Smart Civic Complaint Platform**  
+> Department routing · Role-based workflows · Complaint tracking
+
+</div>
+
+---
+
+# ✦ 03 / THE STACK
+
+<div align="center">
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,react,tailwind,nodejs,express,fastapi,postgresql,mongodb,mysql,firebase,git,github,vscode,postman&perline=8"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%20%26%20GENAI-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BACKEND-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DATABASES-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DEVTOOLS-111827?style=for-the-badge"/>
+
+</div>
+
+---
+
+# ✦ 04 / ENGINEERING SIGNAL
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LEETCODE-1700%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/GFG-TOP%2010-00D9A6?style=for-the-badge&labelColor=000000"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/SIH%202025-FINALIST-8B5CF6?style=for-the-badge&labelColor=000000"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/CGPA-8.8%2F10-36BCF7?style=for-the-badge&labelColor=000000"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=2500&pause=900&color=64748B&center=true&vCenter=true&width=700&lines=DSA+%E2%86%92+SYSTEMS+%E2%86%92+AI+%E2%86%92+SHIP" />
+
+</div>
+
+---
+
+# ✦ 05 / GITHUB
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=abhay963&bg_color=000000&color=36BCF7&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=ABHAY%20//%20ACTIVITY"
+width="100%"
+/>
+
+<br><br>
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=abhay963&show_icons=true&hide_border=true&bg_color=000000&title_color=36BCF7&icon_color=8B5CF6&text_color=FFFFFF&rank_icon=github"
+height="170"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay963&layout=compact&hide_border=true&bg_color=000000&title_color=36BCF7&text_color=FFFFFF&langs_count=7"
+height="170"
+/>
+
+<br><br>
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=abhay963&theme=transparent&hide_border=true&background=000000&ring=36BCF7&fire=8B5CF6&currStreakLabel=36BCF7&sideLabels=FFFFFF&dates=64748B"
+width="65%"
+/>
+
+</div>
+
+---
+
+# ✦ 06 / CONTRIBUTION
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+width="100%"
+/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=2000&pause=900&color=36BCF7&center=true&vCenter=true&width=500&lines=KEEP+BUILDING.;KEEP+LEARNING.;KEEP+SHIPPING." />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=36BCF7"/>
+
+<br><br>
+
+## `LET'S BUILD THE NEXT THING.`
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+%2B+SOFTWARE+%2B+IMAGINATION;THAT'S+WHERE+I+LIKE+TO+WORK."
+/>
+
+<br><br>
+
+<a href="https://abhay96portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/EXPLORE-PORTFOLIO-36BCF7?style=for-the-badge&labelColor=000000"/>
+</a>
+
+<a href="mailto:abhayyadav96312@gmail.com">
+<img src="https://img.shields.io/badge/START-A_CONVERSATION-00D9A6?style=for-the-badge&labelColor=000000"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:000000,50:061A2E,100:000000&animation=fadeIn"/>
+
+</div>
