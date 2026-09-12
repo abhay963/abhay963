@@ -40,7 +40,7 @@ reason → retrieve → act.
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&icon_color=00D9FF&text_color=E5E7EB" height="150"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=dark&hide_border=true&background=0A0A0A&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" height="150"/>
 
-<img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=react-dark&bg_color=0A0A0A&color=00D9FF&line=00D9FF&point=E5E7EB&hide_border=true" width="100%"/>
 
 </div>
 
