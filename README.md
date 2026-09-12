@@ -1,10 +1,5 @@
 <div align="center">
 
-
-
-
-
-
 <!-- ==================== HERO ==================== -->
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;background:#030712;border:1px solid #1E293B;border-radius:12px;">
@@ -18,13 +13,16 @@ ABHAY KUMAR YADAV
 </h1>
 
 <p style="font-family:'Fira Code',monospace;font-size:13px;color:#38BDF8;font-weight:600;margin-top:6px;margin-bottom:14px;">
-Agentic AI Developer &nbsp;|&nbsp; RAG Engineer &nbsp;|&nbsp; Full-Stack
+Agentic AI Developer &nbsp;|&nbsp; RAG &amp; Multi-Agent Systems &nbsp;|&nbsp; Full-Stack Engineer
 </p>
 
-
-
-
 <div>
+
+<a href="https://abhay96portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" height="24" alt="Portfolio" />
+</a>
+
+&nbsp;
 
 <a href="https://github.com/abhay963">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="24" alt="GitHub" />
@@ -77,18 +75,23 @@ alt="GitHub Streak"
 <td align="center" style="background:#0B0F19;border:1px solid #1E293B;border-radius:8px;padding:12px;">
 
 <img
-src="https://skillicons.dev/icons?i=cpp,py,js,react,nodejs,postgres,mongodb,express,git,github,vercel&perline=11"
+src="https://skillicons.dev/icons?i=cpp,py,js,react,nodejs,express,fastapi,postgresql,mongodb,mysql,firebase,git,github,vercel&perline=14"
 alt="Tech Stack"
 />
 
 <br />
 
+</td>
 
+</tr>
 
+</table>
 
+</div>
 
+<br />
 
-<!-- ==================== CONTRIBUTIONS + SNAKE ==================== -->
+<!-- ==================== SNAKE ==================== -->
 
 <div align="center">
 
@@ -99,17 +102,8 @@ alt="Tech Stack"
 <td align="center" style="background:#0B0F19;border:1px solid #1E293B;border-radius:8px;padding:16px;">
 
 <p align="left" style="font-family:'Fira Code',monospace;font-size:12px;color:#38BDF8;font-weight:bold;margin:0 0 12px 0;">
-&#9654; CONTRIBUTIONS / ACTIVITY PIPELINE
+&#9654; CONTRIBUTION SNAKE
 </p>
-
-<img
-width="100%"
-src="https://ghchart.rshah.org/38BDF8/abhay963"
-alt="GitHub Contribution Graph"
-/>
-
-<br />
-<br />
 
 <picture>
 
@@ -171,3 +165,4 @@ alt="Activity Summary"
 
 <br />
 
+</div>
