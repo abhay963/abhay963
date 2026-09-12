@@ -1,306 +1,205 @@
 <div align="center">
 
-<!-- =========================================================
-     HERO
-========================================================= -->
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0"
-style="width:100%;border-collapse:collapse;background:#030712;border:1px solid #1E293B;border-radius:14px;">
-
+<!-- ==================== HERO ==================== -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;background:#030712;border:1px solid #1E293B;border-radius:12px;">
 <tr>
-
-<td width="55%" valign="middle" align="left"
-style="padding:30px;border:none;">
-
-<h1 style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
-font-size:34px;font-weight:800;letter-spacing:-1px;color:#FFFFFF;margin:0;">
+<td width="60%" valign="middle" align="left" style="padding:28px 24px;border:none;">
+<h1 style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;font-size:32px;font-weight:800;letter-spacing:-0.5px;color:#FFFFFF;margin:0;">
 ABHAY KUMAR YADAV
 </h1>
-
-<p style="font-family:'Fira Code',monospace;font-size:13px;
-color:#38BDF8;font-weight:600;margin-top:8px;margin-bottom:18px;">
-Agentic AI Developer &nbsp;|&nbsp; RAG Engineer &nbsp;|&nbsp; Full-Stack Developer
+<p style="font-family:'Fira Code',monospace;font-size:13px;color:#38BDF8;font-weight:600;margin-top:8px;margin-bottom:18px;">
+Agentic AI Developer &nbsp;|&nbsp; RAG &amp; Multi-Agent Systems &nbsp;|&nbsp; Full-Stack Engineer
 </p>
 
-<p style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
-font-size:14px;color:#94A3B8;line-height:1.7;">
-Building intelligent applications with
-<strong style="color:#E2E8F0;">LLMs, RAG, LangGraph</strong>
-and modern full-stack technologies.
-</p>
-
-<br />
-
-<a href="https://abhay96portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"
-height="26" alt="Portfolio" />
-</a>
-
-<a href="https://github.com/abhay963">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"
-height="26" alt="GitHub" />
-</a>
-
-<a href="https://linkedin.com/in/abhay9631">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-height="26" alt="LinkedIn" />
-</a>
-
-<a href="mailto:abhayyadav96312@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-height="26" alt="Email" />
-</a>
-
+<div>
+<a href="https://abhay96portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" height="26" alt="Portfolio" /></a>
+&nbsp;
+<a href="https://github.com/abhay963"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="26" alt="GitHub" /></a>
+&nbsp;
+<a href="https://linkedin.com/in/abhay9631"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="26" alt="LinkedIn" /></a>
+&nbsp;
+<a href="mailto:abhayyadav96312@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="26" alt="Email" /></a>
+</div>
 </td>
-
-
-<!-- =========================================================
-     RIGHT SIDE — DEVELOPER TERMINAL
-========================================================= -->
-
-<td width="45%" valign="middle" align="center"
-style="padding:24px;border:none;">
-
-<img
-src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=2500&pause=900&color=38BDF8&background=03071200&center=true&vCenter=true&width=420&lines=Building+Agentic+AI+Systems...;Engineering+RAG+Pipelines...;Orchestrating+Multi-Agent+Workflows...;Shipping+Full-Stack+Applications...;Always+Learning.+Always+Building."
-alt="Typing Animation"
-/>
-
-<br /><br />
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0"
-style="background:#0B0F19;border:1px solid #1E293B;border-radius:10px;">
-
-<tr>
-<td align="left" style="padding:18px;">
-
-<pre style="font-family:'Fira Code',monospace;font-size:12px;
-line-height:1.8;color:#94A3B8;text-align:left;">
-<span style="color:#38BDF8;">$</span> whoami
-
-<span style="color:#F8FAFC;">abhay@developer</span>
-
-<span style="color:#38BDF8;">focus</span>      → Agentic AI
-<span style="color:#38BDF8;">specialty</span>   → RAG & Multi-Agent Systems
-<span style="color:#38BDF8;">backend</span>     → Python / FastAPI / Node.js
-<span style="color:#38BDF8;">frontend</span>    → React / JavaScript
-<span style="color:#38BDF8;">database</span>    → PostgreSQL / MongoDB / MySQL
-<span style="color:#38BDF8;">mindset</span>     → Build • Learn • Ship
-</pre>
-
+<td width="40%" valign="middle" align="center" style="padding:16px;border:none;">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="70%" alt="Coding Animation" />
 </td>
 </tr>
-
 </table>
 
-</td>
+<br/>
 
-</tr>
-
-</table>
-
-<br />
-
-
-<!-- =========================================================
-     TECH STACK
-========================================================= -->
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0"
-style="border-collapse:collapse;background:#0B0F19;border:1px solid #1E293B;border-radius:10px;">
-
+<!-- ==================== ABOUT ==================== -->
+<table width="100%" style="border-collapse:collapse;">
 <tr>
-
-<td align="center" style="padding:18px;">
-
-<p style="font-family:'Fira Code',monospace;font-size:12px;
-color:#38BDF8;font-weight:bold;margin:0 0 14px 0;">
-▸ TECH STACK
+<td style="background:#0B0F19;border:1px solid #1E293B;border-radius:10px;padding:20px 24px;">
+<p style="font-family:'Fira Code',monospace;font-size:13px;color:#38BDF8;font-weight:bold;margin:0 0 12px 0;">
+▶ ABOUT ME
 </p>
-
-<img
-src="https://skillicons.dev/icons?i=cpp,py,js,react,nodejs,express,fastapi,postgresql,mongodb,mysql,firebase,git,github,vercel&perline=14"
-alt="Technology Stack"
-/>
-
-<br /><br />
-
-<p style="font-family:'Fira Code',monospace;font-size:12px;color:#64748B;margin:0;">
-C++ &nbsp;•&nbsp; Python &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; React
-&nbsp;•&nbsp; Node.js &nbsp;•&nbsp; FastAPI
+<p style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;font-size:15px;color:#E2E8F0;line-height:1.6;margin:0;">
+I'm a passionate <b>Agentic AI Developer</b> focused on building intelligent systems that can reason, plan, and act.  
+I work with <b>RAG pipelines</b>, <b>Multi-Agent architectures</b>, and full-stack applications to turn AI ideas into production-ready products.
 </p>
-
-<p style="font-family:'Fira Code',monospace;font-size:12px;color:#64748B;margin:8px 0 0 0;">
-LangChain &nbsp;•&nbsp; LangGraph &nbsp;•&nbsp; RAG &nbsp;•&nbsp; pgvector
-&nbsp;•&nbsp; PostgreSQL &nbsp;•&nbsp; MongoDB
+<br/>
+<p style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;font-size:14px;color:#94A3B8;margin:0;">
+🔭 Currently exploring advanced agentic workflows &amp; tool-calling agents<br/>
+🌱 Learning LangGraph, CrewAI, AutoGen &amp; advanced RAG techniques<br/>
+💬 Ask me about AI Agents, RAG, FastAPI, React, or Full-Stack systems
 </p>
-
 </td>
-
 </tr>
-
 </table>
 
-<br />
+<br/>
 
-
-<!-- =========================================================
-     AI / ENGINEERING FOCUS
-========================================================= -->
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0"
-style="border-collapse:collapse;">
-
+<!-- ==================== TECH STACK ==================== -->
+<table width="100%" style="border-collapse:collapse;">
 <tr>
-
-<td width="33%" align="center"
-style="background:#0B0F19;border:1px solid #1E293B;border-radius:10px;padding:18px;">
-
-<h3 style="color:#38BDF8;font-family:'Fira Code',monospace;">
-AI ENGINEERING
-</h3>
-
-<p style="color:#94A3B8;font-size:13px;line-height:1.7;">
-Agentic AI<br />
-RAG Pipelines<br />
-LLM Applications<br />
-Multi-Agent Systems
+<td align="center" style="background:#0B0F19;border:1px solid #1E293B;border-radius:10px;padding:16px;">
+<p style="font-family:'Fira Code',monospace;font-size:13px;color:#38BDF8;font-weight:bold;margin:0 0 14px 0;text-align:left;">
+▶ TECH STACK
 </p>
-
+<img src="https://skillicons.dev/icons?i=cpp,py,js,ts,react,nodejs,express,fastapi,postgresql,mongodb,mysql,firebase,docker,git,github,vercel&perline=8" alt="Tech Stack" />
 </td>
-
-<td width="4%"></td>
-
-<td width="33%" align="center"
-style="background:#0B0F19;border:1px solid #1E293B;border-radius:10px;padding:18px;">
-
-<h3 style="color:#818CF8;font-family:'Fira Code',monospace;">
-BACKEND
-</h3>
-
-<p style="color:#94A3B8;font-size:13px;line-height:1.7;">
-Python<br />
-FastAPI<br />
-Node.js<br />
-REST APIs
-</p>
-
-</td>
-
-<td width="4%"></td>
-
-<td width="33%" align="center"
-style="background:#0B0F19;border:1px solid #1E293B;border-radius:10px;padding:18px;">
-
-<h3 style="color:#22D3EE;font-family:'Fira Code',monospace;">
-ENGINEERING
-</h3>
-
-<p style="color:#94A3B8;font-size:13px;line-height:1.7;">
-DSA & OOP<br />
-DBMS<br />
-Operating Systems<br />
-Computer Networks
-</p>
-
-</td>
-
 </tr>
-
 </table>
 
-<br />
+<br/>
 
-
-<!-- =========================================================
-     CONTRIBUTION SNAKE
-========================================================= -->
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0"
-style="border-collapse:collapse;background:#0B0F19;border:1px solid #1E293B;border-radius:10px;">
-
+<!-- ==================== SKILLS ==================== -->
+<table width="100%" style="border-collapse:collapse;">
 <tr>
-
-<td align="center" style="padding:18px;">
-
-<p align="left"
-style="font-family:'Fira Code',monospace;font-size:12px;
-color:#38BDF8;font-weight:bold;margin:0 0 14px 0;">
-▸ CONTRIBUTION ACTIVITY
+<td style="background:#0B0F19;border:1px solid #1E293B;border-radius:10px;padding:20px 24px;">
+<p style="font-family:'Fira Code',monospace;font-size:13px;color:#38BDF8;font-weight:bold;margin:0 0 14px 0;">
+▶ CORE SKILLS
 </p>
 
+<table width="100%" style="border-collapse:collapse;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;font-size:14px;color:#CBD5E1;">
+<tr>
+<td width="50%" valign="top" style="padding:4px 0;">
+• <b style="color:#E2E8F0;">AI / Agentic Systems</b><br/>
+&nbsp;&nbsp;RAG • Multi-Agent • LangChain / LangGraph<br/>
+&nbsp;&nbsp;Tool Calling • Memory Systems
+</td>
+<td width="50%" valign="top" style="padding:4px 0;">
+• <b style="color:#E2E8F0;">Backend</b><br/>
+&nbsp;&nbsp;Python • FastAPI • Node.js • Express<br/>
+&nbsp;&nbsp;REST APIs • Authentication
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="padding:12px 0 4px 0;">
+• <b style="color:#E2E8F0;">Frontend</b><br/>
+&nbsp;&nbsp;React • JavaScript / TypeScript<br/>
+&nbsp;&nbsp;Modern UI • Responsive Design
+</td>
+<td width="50%" valign="top" style="padding:12px 0 4px 0;">
+• <b style="color:#E2E8F0;">Databases &amp; Tools</b><br/>
+&nbsp;&nbsp;PostgreSQL • MongoDB • Firebase<br/>
+&nbsp;&nbsp;Git • Docker • Vercel
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ==================== FEATURED PROJECTS ==================== -->
+<table width="100%" style="border-collapse:collapse;">
+<tr>
+<td style="background:#0B0F19;border:1px solid #1E293B;border-radius:10px;padding:20px 24px;">
+<p style="font-family:'Fira Code',monospace;font-size:13px;color:#38BDF8;font-weight:bold;margin:0 0 16px 0;">
+▶ FEATURED PROJECTS
+</p>
+
+<table width="100%" style="border-collapse:collapse;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;">
+<tr>
+<td width="50%" valign="top" style="padding-right:12px;">
+<a href="https://github.com/abhay963/Portfolio" style="text-decoration:none;color:#38BDF8;font-weight:600;font-size:15px;">
+📦 Portfolio (3D Interactive)
+</a>
+<p style="color:#94A3B8;font-size:13px;margin:6px 0 0 0;line-height:1.5;">
+Modern 3D portfolio built with React, Vite &amp; Spline showcasing projects and skills.
+</p>
+</td>
+<td width="50%" valign="top" style="padding-left:12px;">
+<a href="https://github.com/abhay963/Netflix-Clone" style="text-decoration:none;color:#38BDF8;font-weight:600;font-size:15px;">
+🎬 Netflix Clone
+</a>
+<p style="color:#94A3B8;font-size:13px;margin:6px 0 0 0;line-height:1.5;">
+Full-stack streaming platform with dynamic content, TMDB API &amp; responsive UI.
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ==================== SNAKE ==================== -->
+<table width="100%" style="border-collapse:collapse;">
+<tr>
+<td align="center" style="background:#0B0F19;border:1px solid #1E293B;border-radius:10px;padding:16px;">
+<p style="font-family:'Fira Code',monospace;font-size:13px;color:#38BDF8;font-weight:bold;margin:0 0 12px 0;text-align:left;">
+▶ CONTRIBUTION SNAKE
+</p>
 <picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/abhay963/abhay963/output/github-contribution-grid-snake-dark.svg"
-/>
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/abhay963/abhay963/output/github-contribution-grid-snake.svg"
-/>
-
-<img
-width="100%"
-src="https://raw.githubusercontent.com/abhay963/abhay963/output/github-contribution-grid-snake-dark.svg"
-alt="GitHub Contribution Snake"
-/>
-
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhay963/abhay963/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhay963/abhay963/output/github-contribution-grid-snake.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/abhay963/abhay963/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </picture>
-
 </td>
-
 </tr>
-
 </table>
 
-<br />
+<br/>
 
-
-<!-- =========================================================
-     ACTIVITY
-========================================================= -->
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0"
-style="border-collapse:collapse;background:#0B0F19;border:1px solid #1E293B;border-radius:10px;">
-
+<!-- ==================== ACTIVITY ==================== -->
+<table width="100%" style="border-collapse:collapse;">
 <tr>
-
-<td align="center" style="padding:18px;">
-
-<p align="left"
-style="font-family:'Fira Code',monospace;font-size:12px;
-color:#818CF8;font-weight:bold;margin:0 0 14px 0;">
-▸ DEVELOPMENT ACTIVITY
+<td align="center" style="background:#0B0F19;border:1px solid #1E293B;border-radius:10px;padding:16px;">
+<p style="font-family:'Fira Code',monospace;font-size:13px;color:#818CF8;font-weight:bold;margin:0 0 12px 0;text-align:left;">
+▶ ACTIVITY / PROFILE DETAILS
 </p>
-
-<img
-width="100%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhay963&theme=github_dark"
-alt="GitHub Activity Summary"
-/>
-
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhay963&theme=github_dark" alt="Activity Summary" />
 </td>
-
 </tr>
-
 </table>
 
-<br />
+<br/>
 
-
-<!-- =========================================================
-     FOOTER
-========================================================= -->
-
-<p style="font-family:'Fira Code',monospace;font-size:12px;color:#64748B;">
-<span style="color:#38BDF8;">&lt;/&gt;</span>
-Building intelligent systems, one commit at a time.
+<!-- ==================== GITHUB STATS ==================== -->
+<table width="100%" style="border-collapse:collapse;">
+<tr>
+<td align="center" style="background:#0B0F19;border:1px solid #1E293B;border-radius:10px;padding:16px;">
+<p style="font-family:'Fira Code',monospace;font-size:13px;color:#34D399;font-weight:bold;margin:0 0 14px 0;text-align:left;">
+▶ GITHUB STATS
 </p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhay963&show_icons=true&theme=github_dark&hide_border=true&bg_color=0B0F19&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0" alt="GitHub Stats" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay963&layout=compact&theme=github_dark&hide_border=true&bg_color=0B0F19&title_color=38BDF8&text_color=E2E8F0" alt="Top Languages" />
+</td>
+</tr>
+</table>
 
-<p style="font-family:'Fira Code',monospace;font-size:11px;color:#475569;">
-Open to Software Engineering • AI Engineering • Backend Opportunities
+<br/>
+
+<!-- ==================== FOOTER ==================== -->
+<table width="100%" style="border-collapse:collapse;">
+<tr>
+<td align="center" style="background:#030712;border:1px solid #1E293B;border-radius:10px;padding:18px;">
+<p style="font-family:'Fira Code',monospace;font-size:13px;color:#64748B;margin:0;">
+⚡ Building the future with Agentic AI
 </p>
+<p style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;font-size:13px;color:#475569;margin:8px 0 0 0;">
+Feel free to connect • Open to collaboration &amp; opportunities
+</p>
+</td>
+</tr>
+</table>
 
 </div>
