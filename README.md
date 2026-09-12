@@ -1,132 +1,149 @@
-<h1 align="center">Hi 👋, I'm Abhay Kumar Yadav</h1>
-<h3 align="center">Agentic AI Developer | RAG & Multi-Agent Systems</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:abhayyadav96312@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/YOUR-LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-</p>
+  <!-- ==================== HERO SECTION ==================== -->
+  <a href="https://github.com/abhay963">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=10B981&center=true&vCenter=true&width=435&lines=%E2%97%8F+Open+to+Software+Engineering+%2F+AI+Roles" alt="Status Indicator" />
+  </a>
 
----
+  <br />
 
-### 🚀 About Me
+  <h1 align="center">ABHAY KUMAR YADAV</h1>
 
-- 🎓 B.Tech in Information Technology, Chandigarh Group of Colleges, Landran (2023–2027) — **CGPA: 8.8/10**
-- 🧠 Specializing in **Agentic AI** and **RAG systems** — building multi-agent workflows and context-aware retrieval pipelines
-- 🛠️ Working with **LangChain**, **LangGraph**, **LangSmith**, and vector embeddings to ship production-ready AI products end-to-end
-- 💪 Strong DSA fundamentals — **1700+ LeetCode Contest Rating**
-- 🏆 College Finalist, **Smart India Hackathon 2025**
-- 📍 Based in Mohali, India
+  <p align="center">
+    <code><b>Agentic AI Developer</b></code> &nbsp;&bull;&nbsp; 
+    <code><b>RAG Engineer</b></code> &nbsp;&bull;&nbsp; 
+    <code><b>Full-Stack Developer</b></code>
+  </p>
 
----
+  <p align="center">
+    <i>Building intelligent systems that</i><br />
+    <code><b>reason</b></code> &rarr; <code><b>retrieve</b></code> &rarr; <code><b>act</b></code>
+  </p>
 
-### 🧰 Tech Stack
+  <p align="center">
+    <a href="https://github.com/abhay963">
+      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="26" alt="GitHub" />
+    </a>
+    &nbsp;
+    <a href="https://linkedin.com/in/abhay9631">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="26" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:abhayyadav96312@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="26" alt="Email" />
+    </a>
+  </p>
 
-**Languages**
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  <br />
 
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+  <!-- 3D DEVELOPER VISUAL (GitHub Compatible External Card) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=abhay963&show_icons=true&theme=dark&bg_color=030712&hide_border=false&border_color=1E293B&title_color=38BDF8&icon_color=818CF8&text_color=94A3B8" width="100%" alt="Developer Visual & Stats" />
 
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
+  <br /><br />
 
-**Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![NeonDB](https://img.shields.io/badge/NeonDB-00E599?style=flat-square&logo=postgresql&logoColor=black)
+  <!-- ==================== TECH STRIP ==================== -->
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=cpp,py,js,react,nodejs,postgres,mongodb,express,git,github,vercel,replit&perline=12" alt="Tech Stack Strip" />
+  </p>
 
-**AI / GenAI**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square)
-![Vector DB](https://img.shields.io/badge/Vector%20Databases-6E56CF?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-purple?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-orange?style=flat-square)
+  <p align="center">
+    <code>C++</code> &bull; <code>Python</code> &bull; <code>JavaScript</code> &bull; <code>React</code> &bull; <code>Node.js</code> &bull; <code>PostgreSQL</code> &bull; <code>MongoDB</code> &bull; <code>LangChain</code> &bull; <code>LangGraph</code> &bull; <code>RAG</code> &bull; <code>pgvector</code>
+  </p>
 
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+  <br />
 
----
+  <!-- ==================== SKILLS GRID ==================== -->
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="33%" valign="top" align="left">
+        <h4>&nbsp; AI &amp; REASONING</h4>
+        <img src="https://img.shields.io/badge/Agentic_AI-0F172A?style=for-the-badge&logo=openai&logoColor=38BDF8" /><br/>
+        <img src="https://img.shields.io/badge/RAG_Pipelines-0F172A?style=for-the-badge&logo=meta&logoColor=38BDF8" /><br/>
+        <img src="https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge&logo=python&logoColor=34D399" /><br/>
+        <img src="https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge&logo=diagramsdotnet&logoColor=34D399" /><br/>
+        <img src="https://img.shields.io/badge/pgvector-0F172A?style=for-the-badge&logo=databricks&logoColor=F472B6" />
+      </td>
+      <td width="33%" valign="top" align="left">
+        <h4>&nbsp; ENGINEERING</h4>
+        <img src="https://img.shields.io/badge/React.js-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/>
+        <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=339933" /><br/>
+        <img src="https://img.shields.io/badge/Express.js-0F172A?style=for-the-badge&logo=express&logoColor=FFF" /><br/>
+        <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1" /><br/>
+        <img src="https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+      </td>
+      <td width="33%" valign="top" align="left">
+        <h4>&nbsp; FOUNDATIONS</h4>
+        <img src="https://img.shields.io/badge/C%2B%2B-0F172A?style=for-the-badge&logo=cplusplus&logoColor=00599C" /><br/>
+        <img src="https://img.shields.io/badge/LeetCode_1700%2B-0F172A?style=for-the-badge&logo=leetcode&logoColor=FFA116" /><br/>
+        <img src="https://img.shields.io/badge/OOP_%26_DBMS-0F172A?style=for-the-badge&logo=database&logoColor=94A3B8" /><br/>
+        <img src="https://img.shields.io/badge/Operating_Systems-0F172A?style=for-the-badge&logo=linux&logoColor=FCC624" /><br/>
+        <img src="https://img.shields.io/badge/Computer_Networks-0F172A?style=for-the-badge&logo=cisco&logoColor=1BA0D7" />
+      </td>
+    </tr>
+  </table>
 
-### 💼 Featured Projects
+  <br /><br />
 
-#### 🤖 [Employee Copilot — AI-Powered Enterprise Workplace Assistant](#)
-`React.js` `Express.js` `PostgreSQL/NeonDB` `Gemini` `LangChain` `LangGraph` `LangSmith` `pgvector` `RAG`
+  <!-- ==================== PROJECTS ==================== -->
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="33%" valign="top" align="left">
+        <h3>⚡ Employee Copilot</h3>
+        <p><code>Agentic RAG</code> &bull; <code>LangGraph</code> &bull; <code>pgvector</code></p>
+        <p><small>21+ REST APIs &bull; RBAC &bull; OAuth &bull; Tool Calling &bull; LangSmith</small></p>
+      </td>
+      <td width="33%" valign="top" align="left">
+        <h3>🎙️ GD Arena</h3>
+        <p><code>Multi-Agent AI</code> &bull; <code>WebSockets</code> &bull; <code>Groq</code></p>
+        <p><small>Real-time voice AI &bull; 2 concurrent agents &bull; Deepgram &bull; Rolling Summary</small></p>
+      </td>
+      <td width="33%" valign="top" align="left">
+        <h3>🏛️ Nagar Sahayata</h3>
+        <p><code>MERN</code> &bull; <code>JWT</code> &bull; <code>RBAC</code></p>
+        <p><small>20+ APIs &bull; 10+ departments &bull; SIH Finalist &bull; MongoDB</small></p>
+      </td>
+    </tr>
+  </table>
 
-- Designed an agentic RAG workflow with LangGraph and LangChain, orchestrating intent routing and tool calls across **21+ REST APIs** (6 conversation, 6 document, 9 leave-management endpoints)
-- Built a document ingestion and versioning pipeline with pgvector semantic search, permission-filtered retrieval, RBAC, and policy rollback
-- Integrated Gmail and Google Calendar via OAuth with human-in-the-loop approval for sensitive actions, and LangSmith-instrumented tracing for monitoring agent runs, tool calls, latency, and failures
+  <br /><br />
 
-🔗 [Live Demo](#) · [GitHub Repo](#)
+  <!-- ==================== CONTRIBUTIONS & SNAKE ==================== -->
+  <h3>CONTRIBUTIONS</h3>
 
----
+  <img width="100%" src="https://ghchart.rshah.org/38BDF8/abhay963" alt="GitHub Contribution Graph" />
 
-#### 🗣️ [GD Arena — AI-Powered Group Discussion Practice Platform](#)
-`MERN Stack` `Groq AI` `Gemini` `LangChain` `pgvector` `NeonDB` `Deepgram` `WebSockets`
+  <br /><br />
 
-- Built a real-time multi-agent Group Discussion platform supporting 2 concurrent AI agents per session using LangGraph and LangChain, with token-efficient rolling summarization to cut LLM token usage
-- Integrated Groq AI, Gemini, and Deepgram for real-time multi-agent voice interaction, automated GD topic management, and performance evaluation
-- Built **StudyMate**, an integrated PDF-based RAG assistant using LangChain, embeddings, pgvector, and Gemini for document chunking, semantic retrieval, and context-aware responses
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhay963/abhay963/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhay963/abhay963/output/github-contribution-grid-snake.svg" />
+    <img width="100%" alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/abhay963/abhay963/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 
-🔗 [Live Demo](#) · [GitHub Repo](#)
+  <br /><br />
 
----
+  <!-- ==================== ACTIVITY / 3D ==================== -->
+  <h3>ACTIVITY / 3D</h3>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhay963&theme=github_dark" alt="GitHub Activity Summary" />
 
-#### 🏙️ [Nagar Sahayata Portal — Smart Civic Complaint Management System](#)
-`MongoDB` `Express.js` `React.js` `Node.js` `JWT` `RBAC` `Cloudinary`
+  <br /><br />
 
-- Engineered **20+ REST APIs** with Node.js, Express.js, JWT, and RBAC across 3 roles, enabling complaint routing across 10+ government departments
-- Implemented a secure complaint lifecycle spanning submission, assignment, field execution, image verification, and status tracking with Cloudinary-based proof-of-completion uploads
-- Built role-based dashboards in React.js for complaint tracking, task assignment, and status management
-- 🏆 Selected as **College Finalist at Smart India Hackathon 2025**
+  <!-- ==================== FOOTER ==================== -->
+  <hr style="border: 1px solid #1E293B;" />
+  
+  <p align="center">
+    <small>BUILDING AT THE INTERSECTION OF</small><br />
+    <b>AI &nbsp;&times;&nbsp; SOFTWARE &nbsp;&times;&nbsp; REAL-WORLD PROBLEMS</b>
+  </p>
 
-🔗 [Live Demo](#) · [GitHub Repo](#)
+  <p align="center">
+    <code>● Available for interesting engineering problems</code>
+  </p>
 
----
+  <p align="center">
+    <a href="https://github.com/abhay963">GitHub</a> &nbsp;&bull;&nbsp; 
+    <a href="https://linkedin.com/in/abhay9631">LinkedIn</a> &nbsp;&bull;&nbsp; 
+    <a href="mailto:abhayyadav96312@gmail.com">Email</a>
+  </p>
 
-### 🏆 Achievements
-
-- 🥇 **1700+ LeetCode Contest Rating** — [Profile](#)
-- 🥇 Ranked **Top 10** on GeeksforGeeks Coding Practice Platform — [Profile](#)
-- 🏆 College Finalist, **Smart India Hackathon 2025** (Nagar Sahayata Portal)
-- ✅ Completed MERN Stack Industrial Training (2025)
-- 🎯 Campus Mantri, GeeksforGeeks
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical" alt="GitHub Streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 📫 Connect with Me
-
-- 📧 Email: abhayyadav96312@gmail.com
-- 📱 Phone: +91 9631289175
-- 📍 Location: Mohali, India
-- 💼 LinkedIn: [Your LinkedIn](#)
-- 💻 GitHub: [Your GitHub](#)
-
-<p align="center"><i>⭐️ From <a href="#">Abhay Kumar Yadav</a></i></p>
+</div>
