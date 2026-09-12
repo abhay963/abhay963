@@ -1,11 +1,5 @@
-<div align="center">
-  <!-- Glowing Status Bar -->
-  <a href="https://github.com/abhay963">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=10B981&center=true&vCenter=true&width=420&height=28&lines=%E2%97%8F+Open+to+Software+Engineering+%2F+AI+Roles" alt="Status" />
-  </a>
-</div>
 
-<br />
+
 
 <!-- ==================== HERO SECTION (SPLIT LAYOUT) ==================== -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; border-collapse:collapse; background:#030712; border:1px solid #1E293B; border-radius:12px;">
