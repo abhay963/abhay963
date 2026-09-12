@@ -83,7 +83,7 @@ alt="Tech Stack"
 <td align="center" style="background:#0B0F19;border:1px solid #1E293B;border-radius:8px;padding:16px;">
 
 <p align="left" style="font-family:'Fira Code',monospace;font-size:12px;color:#38BDF8;font-weight:bold;margin:0 0 12px 0;">
-&#9654; CONTRIBUTION SNAKE
+&#9654; CONTRIBUTION 
 </p>
 
 <picture>
@@ -127,7 +127,7 @@ alt="GitHub Contribution Snake"
 <td align="center" style="background:#0B0F19;border:1px solid #1E293B;border-radius:8px;padding:16px;">
 
 <p align="left" style="font-family:'Fira Code',monospace;font-size:12px;color:#818CF8;font-weight:bold;margin:0 0 12px 0;">
-&#9654; ACTIVITY / 3D TERRAIN
+&#9654; ACTIVITY
 </p>
 
 <img
