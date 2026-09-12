@@ -33,9 +33,9 @@ Agentic AI Developer &nbsp;|&nbsp; RAG &amp; Multi-Agent Systems &nbsp;|&nbsp; F
 <br /><br />
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=abhay963&show_icons=true&theme=dark&bg_color=030712&border_color=1E293B&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&hide_border=false&count_private=true"
+src="https://github-profile-trophy.vercel.app/?username=abhay963&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8"
 width="100%"
-alt="GitHub Stats"
+alt="GitHub Trophies"
 />
 
 <br /><br />
