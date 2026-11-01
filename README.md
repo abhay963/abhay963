@@ -116,34 +116,3 @@ alt="GitHub Contribution Snake"
 
 <br />
 
-<!-- ==================== ACTIVITY ==================== -->
-
-<div align="center">
-
-<table width="100%" style="border-collapse:collapse;">
-
-<tr>
-
-<td align="center" style="background:#0B0F19;border:1px solid #1E293B;border-radius:8px;padding:16px;">
-
-<p align="left" style="font-family:'Fira Code',monospace;font-size:12px;color:#818CF8;font-weight:bold;margin:0 0 12px 0;">
-&#9654; ACTIVITY
-</p>
-
-<img
-width="100%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhay963&theme=github_dark"
-alt="Activity Summary"
-/>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
-<br />
-
-</div>
