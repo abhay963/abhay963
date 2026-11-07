@@ -49,11 +49,6 @@ ABHAY KUMAR YADAV
 <tr>
 <td align="center" style="background:#0B0F19;border:1px solid #1E293B;border-radius:14px;padding:22px;">
 
-<div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:16px;">
-  <span style="font-family:'Fira Code',monospace;font-size:12px;color:#38BDF8;font-weight:bold;">🐍 // CONTINUOUS_CONTRIBUTION_GRAPH</span>
-  <span style="font-family:'Fira Code',monospace;font-size:11px;color:#64748B;">ACTIVITY_PIPELINE</span>
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhay963/abhay963/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhay963/abhay963/output/github-contribution-grid-snake.svg" />
@@ -65,9 +60,5 @@ ABHAY KUMAR YADAV
 </table>
 
 <br />
-
-<p style="font-family:'Fira Code',monospace;font-size:11px;color:#64748B;margin:0;">
-Designed with precision for GitHub • Abhay Kumar Yadav © 2026
-</p>
 
 </div>
