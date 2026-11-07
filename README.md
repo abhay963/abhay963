@@ -1,191 +1,243 @@
+
 <div align="center">
 
-<!-- ==================== HERO SECTION ==================== -->
+<!-- ═══════════════════════════════════════════════ -->
+<!--                    HERO                         -->
+<!-- ═══════════════════════════════════════════════ -->
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;background:linear-gradient(135deg, #090D16 0%, #030712 100%);border:1px solid #1E293B;border-radius:16px;overflow:hidden;box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
-<tr>
-<td width="60%" valign="middle" align="left" style="padding:36px;border:none;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:0F172A,100:075985&height=190&section=header&text=ABHAY%20KUMAR%20YADAV&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Building%20Intelligent%20Systems%20%7C%20Engineering%20the%20Future&descSize=13&descAlignY=60&animation=fadeIn" width="100%" />
 
-<p style="font-family:'Fira Code', monospace; font-size:13px; color:#10B981; margin:0 0 10px 0; font-weight:600;">
-&gt; const developer = new AgenticAIArchitect();
+<h3>
+  Agentic AI Developer · Full-Stack Engineer · Problem Solver
+</h3>
+
+<p>
+  <a href="https://abhay96portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/abhay9631">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abhayyadav96312@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h1 style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;font-size:38px;font-weight:900;letter-spacing:-1px;color:#FFFFFF;margin:0;line-height:1.1;">
-ABHAY KUMAR YADAV
-</h1>
+<img src="https://komarev.com/ghpvc/?username=abhay963&style=flat-square&color=0EA5E9&label=PROFILE+VIEWS" />
 
-<p style="font-family:'Fira Code',monospace;font-size:13px;color:#38BDF8;font-weight:600;margin-top:12px;margin-bottom:20px;line-height:1.5;">
-⚡ Agentic AI Systems Architect &nbsp;|&nbsp; Enterprise RAG &nbsp;|&nbsp; Full-Stack Engineer
-</p>
+<br/>
 
-<div style="display:flex;flex-wrap:wrap;gap:8px;">
-  <a href="https://abhay96portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=38BDF8" height="28" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/abhay9631"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
-  <a href="mailto:abhayyadav96312@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" /></a>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="260" />
+
 </div>
 
-</td>
+---
 
-<td width="40%" valign="middle" align="center" style="padding:24px;border:none;">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="85%" alt="Coding Animation" style="border-radius:8px;" />
-</td>
-</tr>
-</table>
+<!-- ═══════════════════════════════════════════════ -->
+<!--                   ABOUT                         -->
+<!-- ═══════════════════════════════════════════════ -->
 
-<br />
+## `$ whoami`
 
-<!-- ==================== METRICS & QUICK SNAPSHOT ==================== -->
+```yaml
+name: Abhay Kumar Yadav
+education: B.Tech Information Technology
+university: Chandigarh Group of Colleges, Landran
+graduation: 2027
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:separate;border-spacing:10px;">
-<tr>
-<td width="33%" align="center" style="background:#0B0F19;border:1px solid #1E293B;border-radius:12px;padding:16px;">
-  <span style="font-family:'Fira Code',monospace;font-size:22px;font-weight:bold;color:#38BDF8;">Multi-Agent</span>
-  <p style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;font-size:12px;color:#94A3B8;margin:4px 0 0 0;">Autonomous AI Workflows</p>
-</td>
-<td width="33%" align="center" style="background:#0B0F19;border:1px solid #1E293B;border-radius:12px;padding:16px;">
-  <span style="font-family:'Fira Code',monospace;font-size:22px;font-weight:bold;color:#10B981;">Enterprise RAG</span>
-  <p style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;font-size:12px;color:#94A3B8;margin:4px 0 0 0;">Hybrid Search & Retrieval</p>
-</td>
-<td width="33%" align="center" style="background:#0B0F19;border:1px solid #1E293B;border-radius:12px;padding:16px;">
-  <span style="font-family:'Fira Code',monospace;font-size:22px;font-weight:bold;color:#F59E0B;">Full-Stack</span>
-  <p style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;font-size:12px;color:#94A3B8;margin:4px 0 0 0;">Scalable Web Architectures</p>
-</td>
-</tr>
-</table>
+interests:
+  - Agentic AI & LLM Orchestration
+  - Retrieval-Augmented Generation (RAG)
+  - Multi-Agent Systems
+  - Full-Stack Development
+  - Data Structures & Algorithms
 
-<br />
+currently_focused_on:
+  - Building intelligent AI applications
+  - Exploring LangChain & LangGraph
+  - Designing scalable backend systems
+  - Strengthening problem-solving skills
 
-<!-- ==================== SYSTEM ARCHITECTURE & LIVE TERMINAL ==================== -->
+mindset: "Learn. Build. Break. Improve. Repeat."
+```
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:separate;border-spacing:12px;">
-<tr>
-<td width="55%" valign="top" style="background:#0B0F19;border:1px solid #1E293B;border-radius:12px;padding:24px;text-align:left;">
+I enjoy building applications that combine **intelligent AI systems with practical software engineering**. My interests revolve around LLM orchestration, RAG pipelines, multi-agent workflows, and scalable full-stack applications.
 
-<p style="font-family:'Fira Code',monospace;font-size:13px;color:#38BDF8;font-weight:bold;margin:0 0 12px 0;">
-📐 // SYSTEM_ARCHITECTURE & CORE_CAPABILITIES
+---
+
+<!-- ═══════════════════════════════════════════════ -->
+<!--                  TECH STACK                     -->
+<!-- ═══════════════════════════════════════════════ -->
+
+## `$ tech --stack`
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js" />
 </p>
-<p style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;font-size:13.5px;color:#94A3B8;line-height:1.6;margin:0 0 16px 0;">
-Specializing in bridging frontier Large Language Models with production-grade backend engineering. Focused on building deterministic agentic graphs, low-latency vector search systems, and reactive user interfaces.
+
+### Frontend Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
 </p>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="50%" valign="top">
-  <p style="font-family:'Fira Code',monospace;font-size:12px;color:#E2E8F0;font-weight:bold;margin:0 0 6px 0;">🤖 AI & Agentic</p>
-  <ul style="font-family:'Fira Code',monospace;font-size:11px;color:#94A3B8;margin:0;padding-left:14px;line-height:1.7;">
-    <li>LangGraph & Multi-Agent Systems</li>
-    <li>Hybrid RAG (Dense + Sparse)</li>
-    <li>Tool Calling & Function Orchestration</li>
-  </ul>
-</td>
-<td width="50%" valign="top">
-  <p style="font-family:'Fira Code',monospace;font-size:12px;color:#E2E8F0;font-weight:bold;margin:0 0 6px 0;">⚙️ Backend & Engineering</p>
-  <ul style="font-family:'Fira Code',monospace;font-size:11px;color:#94A3B8;margin:0;padding-left:14px;line-height:1.7;">
-    <li>FastAPI & Node.js Microservices</li>
-    <li>PostgreSQL, MongoDB & Vector DBs</li>
-    <li>Scalable Async Pipelines</li>
-  </ul>
-</td>
-</tr>
-</table>
+### Backend Engineering
 
-</td>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
 
-<td width="45%" valign="top" style="background:#090D16;border:1px solid #1E293B;border-radius:12px;padding:20px;text-align:left;">
+### AI / LLM Engineering
 
-<!-- Terminal Window -->
-<div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:14px;padding-bottom:8px;border-bottom:1px solid #1E293B;">
-  <div style="display:flex;align-items:center;gap:6px;">
-    <span style="width:10px;height:10px;border-radius:50%;background:#FF5F56;display:inline-block;"></span>
-    <span style="width:10px;height:10px;border-radius:50%;background:#FFBD2E;display:inline-block;"></span>
-    <span style="width:10px;height:10px;border-radius:50%;background:#27C93F;display:inline-block;"></span>
-  </div>
-  <span style="font-family:'Fira Code',monospace;font-size:11px;color:#64748B;">agentic_kernel.sh</span>
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+### Databases & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,redis,prisma,git,github,vercel,aws" />
+</p>
+
+---
+
+<!-- ═══════════════════════════════════════════════ -->
+<!--                 PROJECTS                        -->
+<!-- ═══════════════════════════════════════════════ -->
+
+## `$ ls ./featured-projects`
+
+### 01. GD Arena — AI Group Discussion Platform
+
+An AI-powered platform for practicing group discussions with intelligent moderation and performance analytics.
+
+- AI-moderated group discussions.
+- LLM-powered conversation management.
+- Rolling session memory for token efficiency.
+- Real-time discussion workflows.
+
+`React` `Node.js` `Express` `NeonDB` `Groq AI` `Firebase`
+
+### 02. Employee Copilot — Agentic AI Assistant
+
+An intelligent employee assistant designed to automate HR workflows and interact with enterprise systems.
+
+- RAG-based answers from company documents.
+- Agentic workflows using LangGraph.
+- Gmail and Google Calendar integrations.
+- Employee-specific operations and role-based access.
+
+`React` `Node.js` `LangChain` `LangGraph` `Gemini` `PostgreSQL` `pgvector`
+
+### 03. StudyMate — AI-Powered RAG Study Assistant
+
+A document-based learning assistant that retrieves relevant information from uploaded PDFs.
+
+- PDF extraction and intelligent chunking.
+- Semantic search using vector embeddings.
+- Context-aware question answering.
+- PostgreSQL vector storage.
+
+`LangChain` `Gemini Embeddings` `NeonDB` `pgvector`
+
+### 04. Nagar Sahayata — Civic Complaint Portal
+
+A civic management platform that connects citizens with authorities for complaint registration and tracking.
+
+- Complaint submission and status tracking.
+- Role-based access control.
+- Secure authentication.
+- Cloud-based image uploads.
+
+`MongoDB` `Express` `React` `Node.js` `JWT` `Cloudinary`
+
+---
+
+<!-- ═══════════════════════════════════════════════ -->
+<!--                 GITHUB STATS                   -->
+<!-- ═══════════════════════════════════════════════ -->
+
+## `$ git stats`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhay963&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay963&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712&title_color=38BDF8&text_color=CBD5E1" />
+
+<br/><br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=abhay963&theme=tokyonight&hide_border=true&background=030712&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+
 </div>
 
-<pre style="font-family:'Fira Code',monospace;font-size:11px;color:#E2E8F0;margin:0;line-height:1.6;white-space:pre-wrap;">
-<span style="color:#38BDF8;">abhay@developer</span>:<span style="color:#A855F7;">~</span>$ cat focus_areas.json
-{
-  <span style="color:#10B981;">"current_build"</span>: <span style="color:#F59E0B;">"Multi-Agent Orchestration"</span>,
-  <span style="color:#10B981;">"research"</span>: <span style="color:#F59E0B;">"Corrective RAG & Graph RAG"</span>,
-  <span style="color:#10B981;">"stack"</span>: [<span style="color:#F59E0B;">"Python"</span>, <span style="color:#F59E0B;">"FastAPI"</span>, <span style="color:#F59E0B;">"React"</span>, <span style="color:#F59E0B;">"Qdrant"</span>]
-}
+---
 
-<span style="color:#38BDF8;">abhay@developer</span>:<span style="color:#A855F7;">~</span>$ system_status --check
-<span style="color:#10B981;">[OK] Operational | Open to High-Impact Roles</span>
-</pre>
+<!-- ═══════════════════════════════════════════════ -->
+<!--               CONTRIBUTIONS                    -->
+<!-- ═══════════════════════════════════════════════ -->
 
-</td>
-</tr>
-</table>
+## `$ git log --activity`
 
-<br />
+<div align="center">
 
-<!-- ==================== TECH STACK GRID ==================== -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhay963&bg_color=030712&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 
-<table width="100%" style="border-collapse:collapse;">
-<tr>
-<td align="center" style="background:#0B0F19;border:1px solid #1E293B;border-radius:12px;padding:24px;">
-
-<p align="left" style="font-family:'Fira Code',monospace;font-size:12px;color:#38BDF8;font-weight:bold;margin:0 0 16px 0;">
-🛠️ // TECH_STACK & ECOSYSTEM
-</p>
-
-<!-- Language & Framework Icons -->
-<img src="https://skillicons.dev/icons?i=py,cpp,js,react,fastapi,nodejs,express,postgresql,mongodb,mysql,firebase,docker,git,github&perline=14" alt="Core Technologies" />
-
-<br /><br />
-
-<!-- Specialized AI/RAG Framework Badges -->
-<div style="display:flex;justify-content:center;flex-wrap:wrap;gap:8px;">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="24" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=meta&logoColor=white" height="24" alt="LlamaIndex" />
-  <img src="https://img.shields.io/badge/Qdrant-D12500?style=for-the-badge&logo=qdrant&logoColor=white" height="24" alt="Qdrant" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" height="24" alt="Pinecone" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=chroma&logoColor=white" height="24" alt="Chroma" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="24" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="24" alt="Vercel" />
 </div>
 
-</td>
-</tr>
-</table>
+---
 
-<br />
+<!-- ═══════════════════════════════════════════════ -->
+<!--               ACHIEVEMENTS                     -->
+<!-- ═══════════════════════════════════════════════ -->
 
-<!-- ==================== ANALYTICS & REPO STATS ==================== -->
+## `$ achievements`
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:separate;border-spacing:12px;">
-<tr>
-<td width="50%" align="center" style="background:#0B0F19;border:1px solid #1E293B;border-radius:12px;padding:12px;">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=abhay963&show_icons=true&theme=dark&hide_border=true&bg_color=0B0F19&title_color=38BDF8&text_color=94A3B8&icon_color=10B981" alt="GitHub Stats" />
-</td>
-<td width="50%" align="center" style="background:#0B0F19;border:1px solid #1E293B;border-radius:12px;padding:12px;">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay963&layout=compact&theme=dark&hide_border=true&bg_color=0B0F19&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
-</td>
-</tr>
-</table>
+<div align="center">
 
-<br />
+<img src="https://github-profile-trophy.vercel.app/?username=abhay963&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" width="100%" />
 
-<!-- ==================== CONTRIBUTION MATRIX ==================== -->
+</div>
 
-<table width="100%" style="border-collapse:collapse;">
-<tr>
-<td align="center" style="background:#0B0F19;border:1px solid #1E293B;border-radius:12px;padding:20px;">
+- Solved **500+ DSA problems**.
+- Maintained a **1+ year coding streak**.
+- Achieved **1700+ LeetCode contest rating**.
+- College Finalist — **Smart India Hackathon (SIH) 2025**.
+- Certified in Agile (Infosys) and AWS.
 
-<p align="left" style="font-family:'Fira Code',monospace;font-size:12px;color:#38BDF8;font-weight:bold;margin:0 0 16px 0;">
-🐍 // CONTRIBUTION_MATRIX
-</p>
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhay963/abhay963/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhay963/abhay963/output/github-contribution-grid-snake.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/abhay963/abhay963/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</picture>
+<!-- ═══════════════════════════════════════════════ -->
+<!--                 CONNECT                         -->
+<!-- ═══════════════════════════════════════════════ -->
 
-</td>
-</tr>
-</table>
+## `$ connect --with-me`
+
+<div align="center">
+
+I'm always interested in discussing software engineering, AI, interesting projects, and new opportunities.
+
+<br/>
+
+<a href="https://abhay96portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Explore_My_Work-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/abhay9631">
+  <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### `while(alive) { keep_building(); }`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:075985,50:0F172A,100:030712&height=120&section=footer" width="100%" />
 
 </div>
