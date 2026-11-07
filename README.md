@@ -33,37 +33,6 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--                   ABOUT                         -->
-<!-- ═══════════════════════════════════════════════ -->
-
-## `$ whoami`
-
-```yaml
-name: Abhay Kumar Yadav
-education: B.Tech Information Technology
-university: Chandigarh Group of Colleges, Landran
-graduation: 2027
-
-interests:
-  - Agentic AI & LLM Orchestration
-  - Retrieval-Augmented Generation (RAG)
-  - Multi-Agent Systems
-  - Full-Stack Development
-  - Data Structures & Algorithms
-
-currently_focused_on:
-  - Building intelligent AI applications
-  - Exploring LangChain & LangGraph
-  - Designing scalable backend systems
-  - Strengthening problem-solving skills
-
-mindset: "Learn. Build. Break. Improve. Repeat."
-```
-
-I enjoy building applications that combine **intelligent AI systems with practical software engineering**. My interests revolve around LLM orchestration, RAG pipelines, multi-agent workflows, and scalable full-stack applications.
-
----
 
 <!-- ═══════════════════════════════════════════════ -->
 <!--                  TECH STACK                     -->
@@ -112,57 +81,7 @@ I enjoy building applications that combine **intelligent AI systems with practic
 <!--                 PROJECTS                        -->
 <!-- ═══════════════════════════════════════════════ -->
 
-## `$ ls ./featured-projects`
 
-### 01. GD Arena — AI Group Discussion Platform
-
-An AI-powered platform for practicing group discussions with intelligent moderation and performance analytics.
-
-- AI-moderated group discussions.
-- LLM-powered conversation management.
-- Rolling session memory for token efficiency.
-- Real-time discussion workflows.
-
-`React` `Node.js` `Express` `NeonDB` `Groq AI` `Firebase`
-
-### 02. Employee Copilot — Agentic AI Assistant
-
-An intelligent employee assistant designed to automate HR workflows and interact with enterprise systems.
-
-- RAG-based answers from company documents.
-- Agentic workflows using LangGraph.
-- Gmail and Google Calendar integrations.
-- Employee-specific operations and role-based access.
-
-`React` `Node.js` `LangChain` `LangGraph` `Gemini` `PostgreSQL` `pgvector`
-
-### 03. StudyMate — AI-Powered RAG Study Assistant
-
-A document-based learning assistant that retrieves relevant information from uploaded PDFs.
-
-- PDF extraction and intelligent chunking.
-- Semantic search using vector embeddings.
-- Context-aware question answering.
-- PostgreSQL vector storage.
-
-`LangChain` `Gemini Embeddings` `NeonDB` `pgvector`
-
-### 04. Nagar Sahayata — Civic Complaint Portal
-
-A civic management platform that connects citizens with authorities for complaint registration and tracking.
-
-- Complaint submission and status tracking.
-- Role-based access control.
-- Secure authentication.
-- Cloud-based image uploads.
-
-`MongoDB` `Express` `React` `Node.js` `JWT` `Cloudinary`
-
----
-
-<!-- ═══════════════════════════════════════════════ -->
-<!--                 GITHUB STATS                   -->
-<!-- ═══════════════════════════════════════════════ -->
 
 ## `$ git stats`
 
